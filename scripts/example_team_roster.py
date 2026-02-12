@@ -1,5 +1,5 @@
 import json
-from src.nfl_service import get_team_roster
+from sportradar_nfl.nfl_service import get_team_roster
 
 TEAM_ID = "COLOQUE_AQUI_UM_TEAM_ID"  # pegue do retorno do example_teams.py
 

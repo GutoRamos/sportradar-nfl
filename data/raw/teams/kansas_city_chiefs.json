@@ -1,0 +1,2115 @@
+{
+  "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+  "name": "Chiefs",
+  "market": "Kansas City",
+  "alias": "KC",
+  "sr_id": "sr:competitor:4422",
+  "founded": 1960,
+  "owner": "Clark Hunt",
+  "general_manager": "Brett Veach",
+  "president": "Mark Donovan",
+  "mascot": "K. C. Wolf",
+  "championships_won": 4,
+  "championship_seasons": "1969, 2019, 2022, 2023",
+  "conference_titles": 7,
+  "division_titles": 16,
+  "playoff_appearances": 26,
+  "franchise": {
+    "id": "5d239f9e-ef6a-46a6-83c2-94500fd119be",
+    "name": "Chiefs",
+    "alias": "KC"
+  },
+  "venue": {
+    "id": "2ec4c411-dac2-403d-b091-6b6aa4a0a914",
+    "name": "GEHA Field at Arrowhead Stadium",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "USA",
+    "zip": "64129",
+    "address": "One Arrowhead Drive",
+    "capacity": 76416,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "sr_id": "sr:venue:8189",
+    "location": {
+      "lat": "39.049019",
+      "lng": "-94.484140"
+    }
+  },
+  "division": {
+    "id": "324decdd-aa1b-4074-8958-c009d8fac31a",
+    "name": "AFC West",
+    "alias": "AFC_WEST"
+  },
+  "conference": {
+    "id": "1bdefe12-6cb2-4d6a-b208-b04602ae79c3",
+    "name": "AFC",
+    "alias": "AFC"
+  },
+  "coaches": [
+    {
+      "id": "3001ea20-e8f8-11ef-bcd3-b58775256daf",
+      "full_name": "Dave Toub",
+      "first_name": "Dave",
+      "last_name": "Toub",
+      "position": "Special Teams Coordinator"
+    },
+    {
+      "id": "3af34d1f-d056-4d3b-8457-d27613275bec",
+      "full_name": "Andy Reid",
+      "first_name": "Andy",
+      "last_name": "Reid",
+      "position": "Head Coach"
+    },
+    {
+      "id": "5b8e57f4-6cc0-469d-9fe3-8771b0e6dc87",
+      "full_name": "Steve Spagnuolo",
+      "first_name": "Steve",
+      "last_name": "Spagnuolo",
+      "position": "Defensive Coordinator"
+    },
+    {
+      "id": "e8dcddc3-5b06-4333-8462-18d6ebbd9043",
+      "full_name": "Eric Bieniemy",
+      "first_name": "Eric",
+      "last_name": "Bieniemy",
+      "position": "Offensive Coordinator"
+    }
+  ],
+  "team_colors": [
+    {
+      "type": "secondary",
+      "hex_color": "#ffb81c",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 255,
+        "green": 184,
+        "blue": 28
+      }
+    },
+    {
+      "type": "primary",
+      "hex_color": "#e31837",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 227,
+        "green": 24,
+        "blue": 55
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": "0ef0d0ca-2d2d-455b-ab63-a20c01303e37",
+      "name": "Kareem Hunt",
+      "jersey": "29",
+      "last_name": "Hunt",
+      "first_name": "Kareem",
+      "abbr_name": "K.Hunt",
+      "birth_date": "1995-08-06",
+      "weight": 216.0,
+      "height": 71,
+      "position": "RB",
+      "birth_place": "Willoughby, OH, USA",
+      "high_school": "South (OH)",
+      "college": "Toledo",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129873",
+      "experience": 9,
+      "salary": 1482353,
+      "draft": {
+        "year": 2017,
+        "round": 3,
+        "number": 86,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033923"
+        },
+        {
+          "source_id": "44898"
+        },
+        {
+          "source_id": "d845ea67-ba50-471e-8d8a-230a94033df3",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "0ef78810-a38b-4444-b3b9-fb8b293c567d",
+      "name": "Jalen Royals",
+      "jersey": "11",
+      "last_name": "Royals",
+      "first_name": "Jalen",
+      "abbr_name": "J.Royals",
+      "birth_date": "2003-02-18",
+      "weight": 195.0,
+      "height": 72,
+      "position": "WR",
+      "birth_place": "Powder Springs, GA, USA",
+      "high_school": "Hillgrove (GA)",
+      "college": "Utah State",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2422281",
+      "experience": 0,
+      "salary": 1056800,
+      "draft": {
+        "year": 2025,
+        "round": 4,
+        "number": 133,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "68330e20-1983-11ed-b2f8-9f2ef14bd4d3",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "15ff4e92-dad4-4ff8-ba50-97c68d85f1c1",
+      "name": "Hunter Nourzad",
+      "jersey": "60",
+      "last_name": "Nourzad",
+      "first_name": "Hunter",
+      "abbr_name": "H.Nourzad",
+      "birth_date": "2000-11-26",
+      "weight": 317.0,
+      "height": 75,
+      "position": "OL",
+      "birth_place": "Marietta, GA, USA",
+      "high_school": "The Walker School (GA)",
+      "college": "Penn State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1543005",
+      "experience": 2,
+      "salary": 1039879,
+      "draft": {
+        "year": 2024,
+        "round": 5,
+        "number": 159,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "d5ce49ee-c13c-46a4-a84c-f161c3e2786e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "21a56bce-7c06-44d7-b641-99f499111739",
+      "name": "Bryan Cook",
+      "jersey": "6",
+      "last_name": "Cook",
+      "first_name": "Bryan",
+      "abbr_name": "B.Cook",
+      "birth_date": "1999-09-07",
+      "weight": 206.0,
+      "height": 73,
+      "position": "SAF",
+      "birth_place": "Cincinnati, OH, USA",
+      "high_school": "Mount Healthy (OH)",
+      "college": "Cincinnati",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1258562",
+      "experience": 4,
+      "salary": 1860453,
+      "draft": {
+        "year": 2022,
+        "round": 2,
+        "number": 62,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "c0a72976-a792-4d74-b822-4cef76d0644b",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "3170164a-1718-4a39-9ef2-e18104e35fef",
+      "name": "Brashard Smith",
+      "jersey": "24",
+      "last_name": "Smith",
+      "first_name": "Brashard",
+      "abbr_name": "B.Smith",
+      "birth_date": "2003-04-11",
+      "weight": 196.0,
+      "height": 70,
+      "position": "RB",
+      "birth_place": "Richmond Heights, FL, USA",
+      "high_school": "Miami Palmetto (FL)",
+      "college": "SMU",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2158110",
+      "experience": 0,
+      "salary": 873369,
+      "draft": {
+        "year": 2025,
+        "round": 7,
+        "number": 228,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "e8220506-af35-4002-9adc-d837016b73d8",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "370a8ac8-f6f4-44ef-91b3-a65ab79ec314",
+      "name": "Jaylon Moore",
+      "jersey": "77",
+      "last_name": "Moore",
+      "first_name": "Jaylon",
+      "abbr_name": "J.Moore",
+      "birth_date": "1998-01-09",
+      "weight": 311.0,
+      "height": 76,
+      "position": "OL",
+      "birth_place": "Detroit, MI, USA",
+      "high_school": "Consortium (MI)",
+      "college": "Western Michigan",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197870",
+      "experience": 5,
+      "salary": 11195000,
+      "draft": {
+        "year": 2021,
+        "round": 5,
+        "number": 155,
+        "team": {
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "sr_id": "sr:competitor:4389"
+        }
+      },
+      "references": [
+        {
+          "source_id": "470318fa-b5e0-492a-9dc8-16265b461e08",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "382bf27a-8afb-4ffe-b7b8-9a960b98049a",
+      "name": "Trey Smith",
+      "jersey": "65",
+      "last_name": "Smith",
+      "first_name": "Trey",
+      "abbr_name": "T.Smith",
+      "birth_date": "1999-06-16",
+      "weight": 321.0,
+      "height": 78,
+      "position": "G",
+      "birth_place": "Humboldt, TN, USA",
+      "high_school": "University (TN)",
+      "college": "Tennessee",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197606",
+      "experience": 5,
+      "salary": 14250000,
+      "draft": {
+        "year": 2021,
+        "round": 6,
+        "number": 226,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      }
+    },
+    {
+      "id": "3a25c037-fa30-4740-b742-ec8e4f1a2a25",
+      "name": "Isiah Pacheco",
+      "jersey": "10",
+      "last_name": "Pacheco",
+      "first_name": "Isiah",
+      "abbr_name": "I.Pacheco",
+      "birth_date": "1999-03-02",
+      "weight": 216.0,
+      "height": 70,
+      "position": "RB",
+      "birth_place": "Vineland, NJ, USA",
+      "high_school": "Vineland South (NJ)",
+      "college": "Rutgers",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1436298",
+      "experience": 4,
+      "salary": 1100000,
+      "draft": {
+        "year": 2022,
+        "round": 7,
+        "number": 251,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f12fe010-8f62-4c95-9a51-1ff625928aee",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "3e4f799d-5567-4239-9513-86a16a674073",
+      "name": "Jaden Hicks",
+      "jersey": "21",
+      "last_name": "Hicks",
+      "first_name": "Jaden",
+      "abbr_name": "J.Hicks",
+      "birth_date": "2002-08-16",
+      "weight": 215.0,
+      "height": 73,
+      "position": "DB",
+      "birth_place": "Las Vegas, NV, USA",
+      "high_school": "Bishop Gorman (NV)",
+      "college": "Washington State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2155590",
+      "experience": 2,
+      "salary": 1092177,
+      "draft": {
+        "year": 2024,
+        "round": 4,
+        "number": 133,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "5d587810-0842-46e0-8ac9-8d7cc46b27e7",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "4ceb866c-8eaf-49b5-9043-56228e43a2e5",
+      "name": "Harrison Butker",
+      "jersey": "7",
+      "last_name": "Butker",
+      "first_name": "Harrison",
+      "abbr_name": "H.Butker",
+      "birth_date": "1995-07-14",
+      "weight": 205.0,
+      "height": 76,
+      "position": "K",
+      "birth_place": "Decatur, GA, USA",
+      "high_school": "Westminster (GA)",
+      "college": "Georgia Tech",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1130067",
+      "experience": 9,
+      "salary": 5235000,
+      "draft": {
+        "year": 2017,
+        "round": 7,
+        "number": 233,
+        "team": {
+          "id": "f14bf5cc-9a82-4a38-bc15-d39f75ed5314",
+          "name": "Panthers",
+          "market": "Carolina",
+          "alias": "CAR",
+          "sr_id": "sr:competitor:4415"
+        }
+      },
+      "references": [
+        {
+          "source_id": "45046"
+        },
+        {
+          "source_id": "00-0033303"
+        },
+        {
+          "source_id": "4789b62f-9962-4c9b-b551-3bb1b5e462c4",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "52e049b1-0a7a-4e7f-9866-d2848e9cc478",
+      "name": "Xavier Worthy",
+      "jersey": "1",
+      "last_name": "Worthy",
+      "first_name": "Xavier",
+      "abbr_name": "X.Worthy",
+      "birth_date": "2003-04-27",
+      "weight": 165.0,
+      "height": 71,
+      "position": "WR",
+      "birth_place": "Fresno, CA, USA",
+      "high_school": "Central East (CA)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2151630",
+      "experience": 2,
+      "salary": 3134151,
+      "draft": {
+        "year": 2024,
+        "round": 1,
+        "number": 28,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "2ad6ebe0-e615-4bc3-9ae3-4dfd9d903fce",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "55c491d6-7721-45b4-968c-284448bf8c12",
+      "name": "Matt Araiza",
+      "jersey": "14",
+      "last_name": "Araiza",
+      "first_name": "Matt",
+      "abbr_name": "M.Araiza",
+      "birth_date": "2000-05-16",
+      "weight": 200.0,
+      "height": 73,
+      "position": "P",
+      "birth_place": "San Diego, CA, USA",
+      "high_school": "Rancho Bernardo (CA)",
+      "college": "San Diego State",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1477144",
+      "experience": 2,
+      "salary": 960000,
+      "draft": {
+        "year": 2022,
+        "round": 6,
+        "number": 180,
+        "team": {
+          "id": "768c92aa-75ff-4a43-bcc0-f2798c2e1724",
+          "name": "Bills",
+          "market": "Buffalo",
+          "alias": "BUF",
+          "sr_id": "sr:competitor:4376"
+        }
+      },
+      "references": [
+        {
+          "source_id": "1cc4becd-cb16-40ab-aa63-7ffadc8959de",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "5d4ef6da-a6b5-4d9c-adc0-28dfdbe9315e",
+      "name": "Dameon Pierce",
+      "jersey": "25",
+      "last_name": "Pierce",
+      "first_name": "Dameon",
+      "abbr_name": "D.Pierce",
+      "birth_date": "2000-02-19",
+      "weight": 215.0,
+      "height": 70,
+      "position": "RB",
+      "birth_place": "Bainbridge, GA, USA",
+      "high_school": "Bainbridge (GA)",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1413433",
+      "experience": 4,
+      "salary": 0,
+      "draft": {
+        "year": 2022,
+        "round": 4,
+        "number": 107,
+        "team": {
+          "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+          "name": "Texans",
+          "market": "Houston",
+          "alias": "HOU",
+          "sr_id": "sr:competitor:4324"
+        }
+      },
+      "references": [
+        {
+          "source_id": "64e3b516-2e03-4dc1-b37a-94b7ecb8bbef",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "5e40ece0-ce0e-11ec-8f7c-f5226825ea6a",
+      "name": "Mike Caliendo",
+      "jersey": "66",
+      "last_name": "Caliendo",
+      "first_name": "Mike",
+      "abbr_name": "M.Caliendo",
+      "birth_date": "1997-10-21",
+      "weight": 301.0,
+      "height": 76,
+      "position": "OL",
+      "birth_place": "Brookfield, WI, USA",
+      "high_school": "Brookfield East (WI)",
+      "college": "Western Michigan",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1224510",
+      "experience": 3,
+      "salary": 1030000,
+      "references": [
+        {
+          "source_id": "e9127585-96c2-4c74-a34a-d6cc7a9e97bd",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "6971dfd0-ce0d-11ec-8f7c-f5226825ea6a",
+      "name": "Jack Cochrane",
+      "jersey": "43",
+      "last_name": "Cochrane",
+      "first_name": "Jack",
+      "abbr_name": "J.Cochrane",
+      "birth_date": "1999-02-09",
+      "weight": 236.0,
+      "height": 75,
+      "position": "LB",
+      "birth_place": "Mount Vernon, IA, USA",
+      "high_school": "Mount Vernon (IA)",
+      "college": "South Dakota",
+      "college_conf": "Missouri Valley Football Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1245332",
+      "experience": 4,
+      "salary": 2088235,
+      "references": [
+        {
+          "source_id": "b9fa105e-105c-4af2-9692-e755b89ce512",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "6f3a80b4-9b7b-4429-aec1-bc508ef8e0e6",
+      "name": "Kingsley Suamataia",
+      "jersey": "76",
+      "last_name": "Suamataia",
+      "first_name": "Kingsley",
+      "abbr_name": "K.Suamataia",
+      "birth_date": "2003-01-18",
+      "weight": 326.0,
+      "height": 76,
+      "position": "T",
+      "birth_place": "Orem, UT, USA",
+      "high_school": "Orem (UT)",
+      "college": "BYU",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2154946",
+      "experience": 2,
+      "salary": 1459433,
+      "draft": {
+        "year": 2024,
+        "round": 2,
+        "number": 63,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "237b5d7b-988b-4f92-9737-44e1cf8778d0",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7078cdfc-032b-4f85-8b4b-720f926ba1cb",
+      "name": "Chris Oladokun",
+      "jersey": "19",
+      "last_name": "Oladokun",
+      "first_name": "Chris",
+      "abbr_name": "C.Oladokun",
+      "birth_date": "1997-09-03",
+      "weight": 213.0,
+      "height": 73,
+      "position": "QB",
+      "birth_place": "Tampa, FL, USA",
+      "high_school": "Sickles (FL)",
+      "college": "South Dakota State",
+      "college_conf": "Missouri Valley Football Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1180192",
+      "experience": 1,
+      "salary": 840000,
+      "draft": {
+        "year": 2022,
+        "round": 7,
+        "number": 241,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "8a9c6c0c-7c91-4f7c-a620-553a0c9a2188",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7a6204a0-2490-11f0-84cb-1f27379fd896",
+      "name": "Ethan Downs",
+      "jersey": "40",
+      "last_name": "Downs",
+      "first_name": "Ethan",
+      "abbr_name": "E.Downs",
+      "birth_date": "2002-10-13",
+      "weight": 263.0,
+      "height": 76,
+      "position": "OLB",
+      "birth_place": "Weatherford, OK, USA",
+      "high_school": "Weatherford (OK)",
+      "college": "Oklahoma",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2155868",
+      "experience": 0,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "45e926c8-b33a-49fe-9426-6a4c5f6e747c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7c9c7800-69d0-459b-812b-a07ac48e9f2a",
+      "name": "Robert Tonyan",
+      "jersey": "85",
+      "last_name": "Tonyan",
+      "first_name": "Robert",
+      "abbr_name": "R.Tonyan",
+      "birth_date": "1994-04-30",
+      "weight": 240.0,
+      "height": 77,
+      "position": "TE",
+      "birth_place": "McHenry, IL, USA",
+      "high_school": "McHenry East (IL)",
+      "college": "Indiana State",
+      "college_conf": "Missouri Valley Football Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1134065",
+      "experience": 7,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "45635"
+        },
+        {
+          "source_id": "00-0033757"
+        },
+        {
+          "source_id": "04269fc4-e75b-4e90-8b24-23101edd3502",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7d2f964c-1e5d-4f13-a169-62b4a9e35f2c",
+      "name": "Nohl Williams",
+      "jersey": "20",
+      "last_name": "Williams",
+      "first_name": "Nohl",
+      "abbr_name": "N.Williams",
+      "birth_date": "2002-09-23",
+      "weight": 200.0,
+      "height": 73,
+      "position": "DB",
+      "birth_place": "Ventura, CA, USA",
+      "high_school": "Pacifica (CA)",
+      "college": "California",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2093756",
+      "experience": 0,
+      "salary": 1151912,
+      "draft": {
+        "year": 2025,
+        "round": 3,
+        "number": 85,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "474950ca-bfda-403b-8bc2-b9caf4be5b6a",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "83ad043c-d1e6-45b3-9e06-3f148538db46",
+      "name": "Nick Bolton",
+      "jersey": "32",
+      "last_name": "Bolton",
+      "first_name": "Nick",
+      "abbr_name": "N.Bolton",
+      "birth_date": "2000-03-10",
+      "weight": 237.0,
+      "height": 71,
+      "position": "LB",
+      "birth_place": "Frisco, TX, USA",
+      "high_school": "Lone Star (TX)",
+      "college": "Missouri",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198068",
+      "experience": 5,
+      "salary": 6500000,
+      "draft": {
+        "year": 2021,
+        "round": 2,
+        "number": 58,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "c884254d-1eda-4f2b-b252-e8f610fbafd8",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "87895e2c-f210-497d-956a-cb5aac9fd8b5",
+      "name": "Zacch Pickens",
+      "jersey": "93",
+      "last_name": "Pickens",
+      "first_name": "Zacch",
+      "abbr_name": "Z.Pickens",
+      "birth_date": "2000-03-06",
+      "weight": 303.0,
+      "height": 76,
+      "position": "DT",
+      "birth_place": "Anderson, SC, USA",
+      "high_school": "T. L. Hanna (SC)",
+      "college": "South Carolina",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1696085",
+      "experience": 3,
+      "salary": 0,
+      "draft": {
+        "year": 2023,
+        "round": 3,
+        "number": 64,
+        "team": {
+          "id": "7b112545-38e6-483c-a55c-96cf6ee49cb8",
+          "name": "Bears",
+          "market": "Chicago",
+          "alias": "CHI",
+          "sr_id": "sr:competitor:4391"
+        }
+      },
+      "references": [
+        {
+          "source_id": "c820c32d-8b1d-4935-8dc3-f38991acc6fd",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "8b9bc551-66bb-4948-849f-c0471caaeb19",
+      "name": "Mike Pennel",
+      "jersey": "69",
+      "last_name": "Pennel",
+      "first_name": "Mike",
+      "abbr_name": "M.Pennel",
+      "birth_date": "1991-05-09",
+      "weight": 330.0,
+      "height": 76,
+      "position": "NT",
+      "birth_place": "Topeka, KS, USA",
+      "high_school": "Grandview (CO)",
+      "college": "CSU-Pueblo",
+      "college_conf": "Rocky Mountain Athletic Conference",
+      "rookie_year": 2014,
+      "status": "ACT",
+      "sr_id": "sr:player:854870",
+      "experience": 11,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "00-0030757"
+        },
+        {
+          "source_id": "41595"
+        }
+      ]
+    },
+    {
+      "id": "9547fbb1-0d4f-4d9e-83b9-e2fa30463bb9",
+      "name": "JuJu Smith-Schuster",
+      "jersey": "9",
+      "last_name": "Smith-Schuster",
+      "first_name": "JuJu",
+      "abbr_name": "J.Smith-Schuster",
+      "birth_date": "1996-11-22",
+      "weight": 215.0,
+      "height": 73,
+      "position": "WR",
+      "birth_place": "Long Beach, CA, USA",
+      "high_school": "Long Beach Poly (CA)",
+      "college": "USC",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129761",
+      "experience": 9,
+      "salary": 1197500,
+      "draft": {
+        "year": 2017,
+        "round": 2,
+        "number": 62,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "44874"
+        },
+        {
+          "source_id": "00-0033857"
+        },
+        {
+          "source_id": "9e6dd140-88e5-4512-9245-722bc4e44b25",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "96c9a116-882b-4b6e-9975-a0f71d976152",
+      "name": "C.J. Hanson",
+      "jersey": "61",
+      "last_name": "Hanson",
+      "first_name": "C.J.",
+      "abbr_name": "C.Hanson",
+      "birth_date": "2001-03-03",
+      "weight": 300.0,
+      "height": 77,
+      "position": "G",
+      "birth_place": "Wyckoff, NJ, USA",
+      "high_school": "DePaul Catholic (NJ)",
+      "college": "Holy Cross",
+      "college_conf": "Patriot League Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1747695",
+      "experience": 2,
+      "salary": 981196,
+      "draft": {
+        "year": 2024,
+        "round": 7,
+        "number": 248,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "25f5c404-d8b9-4f83-a17a-dd5822d25809",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "996a0607-8046-46c2-97a0-b94ff9f5a1c8",
+      "name": "James Winchester",
+      "jersey": "41",
+      "last_name": "Winchester",
+      "first_name": "James",
+      "abbr_name": "J.Winchester",
+      "birth_date": "1989-08-06",
+      "weight": 240.0,
+      "height": 75,
+      "position": "LS",
+      "birth_place": "Washington, OK, USA",
+      "high_school": "Washington (OK)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2013,
+      "status": "ACT",
+      "sr_id": "sr:player:855674",
+      "experience": 11,
+      "salary": 1422500,
+      "references": [
+        {
+          "source_id": "00-0030615"
+        },
+        {
+          "source_id": "40994"
+        },
+        {
+          "source_id": "8fdc48a7-26d6-469d-b14a-f7116dd795d5",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9da6119d-b135-4b90-9f9d-7d08ab00b15d",
+      "name": "Jerry Tillery",
+      "jersey": "99",
+      "last_name": "Tillery",
+      "first_name": "Jerry",
+      "abbr_name": "J.Tillery",
+      "birth_date": "1996-10-08",
+      "weight": 295.0,
+      "height": 78,
+      "position": "DL",
+      "birth_place": "Shreveport, LA, USA",
+      "high_school": "Evangel Christian Academy (LA)",
+      "college": "Notre Dame",
+      "college_conf": "Independent",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1188426",
+      "experience": 7,
+      "salary": 1790000,
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "number": 28,
+        "team": {
+          "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+          "name": "Chargers",
+          "market": "Los Angeles",
+          "alias": "LAC",
+          "sr_id": "sr:competitor:4429"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47811"
+        },
+        {
+          "source_id": "00-0035674"
+        },
+        {
+          "source_id": "637884f0-ca77-431e-be62-2810db8e8ecb",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9e9d2934-a273-4e39-a413-d991d083297b",
+      "name": "Mike Danna",
+      "jersey": "51",
+      "last_name": "Danna",
+      "first_name": "Mike",
+      "abbr_name": "M.Danna",
+      "birth_date": "1997-12-04",
+      "weight": 257.0,
+      "height": 74,
+      "position": "DE",
+      "birth_place": "Detroit, MI, USA",
+      "high_school": "Warren De La Salle (MI)",
+      "college": "Michigan",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2042667",
+      "experience": 6,
+      "salary": 8046666,
+      "draft": {
+        "year": 2020,
+        "round": 5,
+        "number": 177,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "52585"
+        },
+        {
+          "source_id": "00-0036378"
+        },
+        {
+          "source_id": "0214ea14-8059-4865-b02a-f0e240e0c0dc",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9f8a0010-23a6-11f0-b68e-f3457b37f11f",
+      "name": "Esa Pole",
+      "jersey": "79",
+      "last_name": "Pole",
+      "first_name": "Esa",
+      "abbr_name": "E.Pole",
+      "birth_date": "2001-07-04",
+      "weight": 319.0,
+      "height": 79,
+      "position": "T",
+      "birth_place": "Hayward, CA, USA",
+      "high_school": "Mount Eden (CA)",
+      "college": "Washington State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2556413",
+      "experience": 0,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "e6aabbb0-a7ed-11ed-9f7f-ff14da67b43d",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a025e3d0-ea7e-11ed-b322-bbe6361075be",
+      "name": "Chukwuebuka Godrick",
+      "jersey": "72",
+      "last_name": "Godrick",
+      "first_name": "Chukwuebuka",
+      "abbr_name": "C.Godrick",
+      "birth_date": "2000-10-11",
+      "weight": 293.0,
+      "height": 77,
+      "position": "T",
+      "birth_place": "Lagos,, NGA",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:2616049",
+      "experience": 1,
+      "salary": 840000
+    },
+    {
+      "id": "a1182eb3-26cb-4d34-b29a-df673973f08b",
+      "name": "Derrick Nnadi",
+      "jersey": "92",
+      "last_name": "Nnadi",
+      "first_name": "Derrick",
+      "abbr_name": "D.Nnadi",
+      "birth_date": "1996-05-09",
+      "weight": 317.0,
+      "height": 73,
+      "position": "DT",
+      "birth_place": "Virginia Beach, VA, USA",
+      "high_school": "Ocean Lakes (VA)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1219150",
+      "experience": 8,
+      "salary": 1197500,
+      "draft": {
+        "year": 2018,
+        "round": 3,
+        "number": 75,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "46144"
+        },
+        {
+          "source_id": "00-0034818"
+        },
+        {
+          "source_id": "508464db-ff21-4e01-883e-0d3fa6a6aa09",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a5a9fe33-3879-485e-8d9a-212d295133bd",
+      "name": "Creed Humphrey",
+      "jersey": "52",
+      "last_name": "Humphrey",
+      "first_name": "Creed",
+      "abbr_name": "C.Humphrey",
+      "birth_date": "1999-06-28",
+      "weight": 302.0,
+      "height": 76,
+      "position": "C",
+      "birth_place": "Shawnee, OK, USA",
+      "high_school": "Shawnee (OK)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197878",
+      "experience": 5,
+      "salary": 10790000,
+      "draft": {
+        "year": 2021,
+        "round": 2,
+        "number": 63,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "e3a56428-3a51-4b18-bff8-05c3e5933431",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a7bc7c40-dd11-4aaf-bfdb-664b245eb415",
+      "name": "Tyreke Smith",
+      "jersey": "57",
+      "last_name": "Smith",
+      "first_name": "Tyreke",
+      "abbr_name": "T.Smith",
+      "birth_date": "2000-02-14",
+      "weight": 255.0,
+      "height": 75,
+      "position": "DE",
+      "birth_place": "Cleveland, OH, USA",
+      "high_school": "Cleveland Heights (OH)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1436856",
+      "experience": 3,
+      "salary": 840000,
+      "draft": {
+        "year": 2022,
+        "round": 5,
+        "number": 158,
+        "team": {
+          "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+          "name": "Seahawks",
+          "market": "Seattle",
+          "alias": "SEA",
+          "sr_id": "sr:competitor:4430"
+        }
+      },
+      "references": [
+        {
+          "source_id": "c137ec1d-e5de-492f-94fd-80eda94c09aa",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a952a370-a43f-45ec-8371-0665f0b9551e",
+      "name": "Jared Wiley",
+      "jersey": "12",
+      "last_name": "Wiley",
+      "first_name": "Jared",
+      "abbr_name": "J.Wiley",
+      "birth_date": "2000-11-02",
+      "weight": 249.0,
+      "height": 78,
+      "position": "TE",
+      "birth_place": "Temple, TX, USA",
+      "high_school": "Temple (TX)",
+      "college": "TCU",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1693967",
+      "experience": 2,
+      "salary": 1132155,
+      "draft": {
+        "year": 2024,
+        "round": 4,
+        "number": 131,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "378bd52c-1ba3-44b8-852c-4ed84a8a3f85",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "ae372a9d-6f85-4e37-a910-47fd77483ebc",
+      "name": "Cole Christiansen",
+      "jersey": "48",
+      "last_name": "Christiansen",
+      "first_name": "Cole",
+      "abbr_name": "C.Christiansen",
+      "birth_date": "1997-07-30",
+      "weight": 230.0,
+      "height": 73,
+      "position": "LB",
+      "birth_place": "Suffolk, VA, USA",
+      "high_school": "Nansemond-Suffolk Academy (VA)",
+      "college": "Army",
+      "college_conf": "Independent",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:1203386",
+      "experience": 2,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "52802"
+        },
+        {
+          "source_id": "00-0035900"
+        },
+        {
+          "source_id": "a10e262f-3d88-4d1f-88e3-ed943a46cc4f",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "afb1f463-400e-4bdb-9028-717a563ba6f4",
+      "name": "George Karlaftis",
+      "jersey": "56",
+      "last_name": "Karlaftis",
+      "first_name": "George",
+      "abbr_name": "G.Karlaftis",
+      "birth_date": "2001-04-03",
+      "weight": 263.0,
+      "height": 76,
+      "position": "DE",
+      "birth_place": "Athens,, GRC",
+      "high_school": "West Lafayette (IN)",
+      "college": "Purdue",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1695453",
+      "experience": 4,
+      "salary": 6565086,
+      "draft": {
+        "year": 2022,
+        "round": 1,
+        "number": 30,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "9fe7c9f9-5830-4e22-953d-054a44342323",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "b2da84c5-e51c-47d8-bccc-888f8caaa8ad",
+      "name": "Mike Edwards",
+      "jersey": "34",
+      "last_name": "Edwards",
+      "first_name": "Mike",
+      "abbr_name": "M.Edwards",
+      "birth_date": "1996-05-18",
+      "weight": 205.0,
+      "height": 70,
+      "position": "SAF",
+      "birth_place": "Cincinnati, OH, USA",
+      "high_school": "Winton Woods (OH)",
+      "college": "Kentucky",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1183390",
+      "experience": 7,
+      "salary": 840000,
+      "draft": {
+        "year": 2019,
+        "round": 3,
+        "number": 99,
+        "team": {
+          "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+          "name": "Buccaneers",
+          "market": "Tampa Bay",
+          "alias": "TB",
+          "sr_id": "sr:competitor:4388"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0035681"
+        },
+        {
+          "source_id": "47882"
+        },
+        {
+          "source_id": "ce1cbc58-b27e-48d9-8131-8c25dc7dfe77",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "be77723f-3d5a-47aa-9949-433993879a6f",
+      "name": "Joshua Williams",
+      "jersey": "2",
+      "last_name": "Williams",
+      "first_name": "Joshua",
+      "abbr_name": "J.Williams",
+      "birth_date": "1999-10-17",
+      "weight": 193.0,
+      "height": 75,
+      "position": "CB",
+      "birth_place": "Fayetteville, NC, USA",
+      "high_school": "Jack Britt (NC)",
+      "college": "Fayetteville State",
+      "college_conf": "Central Intercollegiate Athletic Association",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:2343039",
+      "experience": 4,
+      "salary": 3572565,
+      "draft": {
+        "year": 2022,
+        "round": 4,
+        "number": 135,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      }
+    },
+    {
+      "id": "c3859e06-5f23-4302-a71b-04820a899d5f",
+      "name": "Travis Kelce",
+      "jersey": "87",
+      "last_name": "Kelce",
+      "first_name": "Travis",
+      "abbr_name": "T.Kelce",
+      "birth_date": "1989-10-05",
+      "weight": 250.0,
+      "height": 77,
+      "position": "TE",
+      "birth_place": "Cleveland Heights, OH, USA",
+      "high_school": "Cleveland Heights (OH)",
+      "college": "Cincinnati",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2013,
+      "status": "ACT",
+      "sr_id": "sr:player:831509",
+      "experience": 13,
+      "salary": 19801667,
+      "draft": {
+        "year": 2013,
+        "round": 3,
+        "number": 63,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "40011"
+        },
+        {
+          "source_id": "00-0030506"
+        },
+        {
+          "source_id": "ceed0b4f-277c-43ff-bc98-c65ca7c49554",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c87aaf5b-e1e9-4d18-b0f1-f328b646031d",
+      "name": "Kristian Fulton",
+      "jersey": "8",
+      "last_name": "Fulton",
+      "first_name": "Kristian",
+      "abbr_name": "K.Fulton",
+      "birth_date": "1998-09-03",
+      "weight": 197.0,
+      "height": 71,
+      "position": "CB",
+      "birth_place": "New Orleans, LA, USA",
+      "high_school": "Archbishop Rummel (LA)",
+      "college": "LSU",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040061",
+      "experience": 5,
+      "salary": 7000000,
+      "draft": {
+        "year": 2020,
+        "round": 2,
+        "number": 61,
+        "team": {
+          "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+          "name": "Titans",
+          "market": "Tennessee",
+          "alias": "TEN",
+          "sr_id": "sr:competitor:367364"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036416"
+        },
+        {
+          "source_id": "52469"
+        },
+        {
+          "source_id": "2fe374c0-4006-4c3c-b527-3db196a13257",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c97dfcb6-b999-476f-8487-f3848e92df17",
+      "name": "Noah Gray",
+      "jersey": "83",
+      "last_name": "Gray",
+      "first_name": "Noah",
+      "abbr_name": "N.Gray",
+      "birth_date": "1999-04-30",
+      "weight": 240.0,
+      "height": 75,
+      "position": "TE",
+      "birth_place": "Leominster, MA, USA",
+      "high_school": "Leominster (MA)",
+      "college": "Duke",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197934",
+      "experience": 5,
+      "salary": 4911000,
+      "draft": {
+        "year": 2021,
+        "round": 5,
+        "number": 162,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f35dbc03-1134-4eeb-98e1-c60907e60174",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "cc4627f1-1af2-4a3d-aa78-c5f905a8a43d",
+      "name": "Chamarri Conner",
+      "jersey": "27",
+      "last_name": "Conner",
+      "first_name": "Chamarri",
+      "abbr_name": "C.Conner",
+      "birth_date": "2000-07-11",
+      "weight": 202.0,
+      "height": 72,
+      "position": "DB",
+      "birth_place": "Jacksonville, FL, USA",
+      "high_school": "Trinity Christian Academy (FL)",
+      "college": "Virginia Tech",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1411853",
+      "experience": 3,
+      "salary": 1217842,
+      "draft": {
+        "year": 2023,
+        "round": 4,
+        "number": 119,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "6bd10a55-6093-40fb-bc06-28e3a17d846d",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "ccc1bab9-c77d-4d01-857f-9b240b86301a",
+      "name": "Ashton Gillotte",
+      "jersey": "97",
+      "last_name": "Gillotte",
+      "first_name": "Ashton",
+      "abbr_name": "A.Gillotte",
+      "birth_date": "2002-10-30",
+      "weight": 270.0,
+      "height": 75,
+      "position": "DE",
+      "birth_place": "Boca Raton, FL, USA",
+      "high_school": "Boca Raton (FL)",
+      "college": "Louisville",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2162500",
+      "experience": 0,
+      "salary": 1226295,
+      "draft": {
+        "year": 2025,
+        "round": 3,
+        "number": 66,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "9e5eeb6f-5849-42e8-b65a-c311eb44e417",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "d468dfe5-8ad2-4c8b-b7ba-0962316a2156",
+      "name": "Drue Tranquill",
+      "jersey": "23",
+      "last_name": "Tranquill",
+      "first_name": "Drue",
+      "abbr_name": "D.Tranquill",
+      "birth_date": "1995-08-15",
+      "weight": 234.0,
+      "height": 74,
+      "position": "LB",
+      "birth_place": "Fort Wayne, IN, USA",
+      "high_school": "Carroll (IN)",
+      "college": "Notre Dame",
+      "college_conf": "Independent",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1205822",
+      "experience": 7,
+      "salary": 8500000,
+      "draft": {
+        "year": 2019,
+        "round": 4,
+        "number": 130,
+        "team": {
+          "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+          "name": "Chargers",
+          "market": "Los Angeles",
+          "alias": "LAC",
+          "sr_id": "sr:competitor:4429"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0035262"
+        },
+        {
+          "source_id": "47913"
+        },
+        {
+          "source_id": "dc745cf6-d9c8-4be4-a8dd-48a89ebbabd3",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "d6920940-23ab-11f0-92c8-a5c84f732fb0",
+      "name": "Kevin Knowles",
+      "jersey": "38",
+      "last_name": "Knowles",
+      "first_name": "Kevin",
+      "abbr_name": "K.Knowles",
+      "birth_date": "2003-04-09",
+      "weight": 190.0,
+      "height": 71,
+      "position": "CB",
+      "birth_place": "Hollywood, FL, USA",
+      "high_school": "McArthur (FL)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2162446",
+      "experience": 0,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "dd12a265-9095-4221-8873-6e4acc149862",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e4851020-2620-11f0-aaa6-01badd5b0ec1",
+      "name": "Melvin Smith Jr.",
+      "jersey": "39",
+      "last_name": "Smith",
+      "first_name": "Melvin",
+      "abbr_name": "M.Smith",
+      "birth_date": "2002-04-12",
+      "weight": 185.0,
+      "height": 73,
+      "position": "CB",
+      "birth_place": "Bossier City, LA, USA",
+      "high_school": "Airline (LA)",
+      "college": "Southern Arkansas",
+      "college_conf": "Great American Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2987915",
+      "name_suffix": "Jr.",
+      "experience": 0,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "88fa1a50-3d43-11ef-b9b6-abc6bdbfcd87",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "ef7b5ce8-a929-46be-b9f3-328752c6d125",
+      "name": "Chris Jones",
+      "jersey": "95",
+      "last_name": "Jones",
+      "first_name": "Chris",
+      "abbr_name": "C.Jones",
+      "birth_date": "1994-07-03",
+      "weight": 310.0,
+      "height": 78,
+      "position": "DT",
+      "birth_place": "Houston, MS, USA",
+      "high_school": "Houston (MS)",
+      "college": "Mississippi State",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2016,
+      "status": "ACT",
+      "sr_id": "sr:player:987609",
+      "experience": 10,
+      "salary": 23600000,
+      "draft": {
+        "year": 2016,
+        "round": 2,
+        "number": 37,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "43326"
+        },
+        {
+          "source_id": "00-0032762"
+        },
+        {
+          "source_id": "ff9eee11-046d-451f-855f-bf08007922d4",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "eff1c40e-715c-49c4-93d8-6155322c1205",
+      "name": "Charles Omenihu",
+      "jersey": "90",
+      "last_name": "Omenihu",
+      "first_name": "Charles",
+      "abbr_name": "C.Omenihu",
+      "birth_date": "1997-08-20",
+      "weight": 280.0,
+      "height": 77,
+      "position": "DE",
+      "birth_place": "Rowlett, TX, USA",
+      "high_school": "Rowlett (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1228620",
+      "experience": 7,
+      "salary": 3670000,
+      "draft": {
+        "year": 2019,
+        "round": 5,
+        "number": 161,
+        "team": {
+          "id": "82d2d380-3834-4938-835f-aec541e5ece7",
+          "name": "Texans",
+          "market": "Houston",
+          "alias": "HOU",
+          "sr_id": "sr:competitor:4324"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0035279"
+        },
+        {
+          "source_id": "47944"
+        },
+        {
+          "source_id": "9f964691-80e8-4c0f-97a7-95da697c1458",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f30d7fdd-9d14-4cee-aae7-6ad6ee02935b",
+      "name": "Nazeeh Johnson",
+      "jersey": "13",
+      "last_name": "Johnson",
+      "first_name": "Nazeeh",
+      "abbr_name": "N.Johnson",
+      "birth_date": "1998-07-17",
+      "weight": 199.0,
+      "height": 70,
+      "position": "SAF",
+      "birth_place": "Martinsburg, WV, USA",
+      "high_school": "Millbrook (VA)",
+      "college": "Marshall",
+      "college_conf": "Conference USA",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:2343145",
+      "experience": 4,
+      "salary": 1888235,
+      "draft": {
+        "year": 2022,
+        "round": 7,
+        "number": 259,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3d2c71f2-1f8c-4e46-8851-5f92444f0dcf",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "fa96e690-2ac6-11f0-ac7e-b50f952a60f6",
+      "name": "Cooper McDonald",
+      "jersey": "59",
+      "last_name": "McDonald",
+      "first_name": "Cooper",
+      "abbr_name": "C.McDonald",
+      "birth_date": "2001-08-07",
+      "weight": 240.0,
+      "height": 75,
+      "position": "LB",
+      "birth_place": "Haslet, TX, USA",
+      "high_school": "San Diego State (CA)",
+      "college": "TCU",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2006651",
+      "experience": 0,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "b12a725d-d826-407c-8561-3c17ebf14785",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "fb38f3cd-8e90-4c41-b10e-0ed37d97c3bc",
+      "name": "Jeffrey Bassa",
+      "jersey": "31",
+      "last_name": "Bassa",
+      "first_name": "Jeffrey",
+      "abbr_name": "J.Bassa",
+      "birth_date": "2002-09-20",
+      "weight": 235.0,
+      "height": 74,
+      "position": "LB",
+      "birth_place": "Salt Lake City, UT, USA",
+      "high_school": "Kearns (UT)",
+      "college": "Oregon",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2154942",
+      "experience": 0,
+      "salary": 943413,
+      "draft": {
+        "year": 2025,
+        "round": 5,
+        "number": 156,
+        "team": {
+          "id": "6680d28d-d4d2-49f6-aace-5292d3ec02c2",
+          "name": "Chiefs",
+          "market": "Kansas City",
+          "alias": "KC",
+          "sr_id": "sr:competitor:4422"
+        }
+      },
+      "references": [
+        {
+          "source_id": "15519450-8d2c-490d-a1b8-9ff69a67e534",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "feeee40a-dd63-41a7-89cd-6c95b5456833",
+      "name": "Hollywood Brown",
+      "jersey": "5",
+      "last_name": "Brown",
+      "first_name": "Marquise",
+      "abbr_name": "M.Brown",
+      "preferred_name": "Hollywood",
+      "birth_date": "1997-06-04",
+      "weight": 180.0,
+      "height": 69,
+      "position": "WR",
+      "birth_place": "Hollywood, FL, USA",
+      "high_school": "Chaminade-Madonna (FL)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1234416",
+      "experience": 7,
+      "salary": 6794118,
+      "draft": {
+        "year": 2019,
+        "round": 1,
+        "number": 25,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47808"
+        },
+        {
+          "source_id": "00-0035662"
+        },
+        {
+          "source_id": "59bd8d3a-a794-424e-ae99-b94a79602b71",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2026-01-21 23:22:34 +0000 ended @ 2026-01-21 23:22:34 +0000"
+}

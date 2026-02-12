@@ -1,0 +1,2172 @@
+{
+  "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+  "name": "Steelers",
+  "market": "Pittsburgh",
+  "alias": "PIT",
+  "sr_id": "sr:competitor:4345",
+  "founded": 1933,
+  "owner": "Art Rooney II & Family",
+  "general_manager": "Omar Khan",
+  "president": "Art Rooney II",
+  "mascot": "Steely McBeam",
+  "nicknames": "The Black and Gold",
+  "fight_song": "Renegade",
+  "championships_won": 6,
+  "championship_seasons": "1974, 1975, 1978, 1979, 2005, 2008",
+  "conference_titles": 8,
+  "division_titles": 25,
+  "playoff_appearances": 36,
+  "franchise": {
+    "id": "8dfe8626-6970-4e88-90dd-ea735c3d5cc3",
+    "name": "Steelers",
+    "alias": "PIT"
+  },
+  "venue": {
+    "id": "7349a2e6-0ac9-410b-8bd2-ca58c9f7aa34",
+    "name": "Acrisure Stadium",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": "USA",
+    "zip": "15212",
+    "address": "100 Art Rooney Avenue",
+    "capacity": 68400,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "sr_id": "sr:venue:8197",
+    "location": {
+      "lat": "40.446653",
+      "lng": "-80.015844"
+    }
+  },
+  "division": {
+    "id": "eb60da78-4eb5-4184-971e-2c5cd4ab4988",
+    "name": "AFC North",
+    "alias": "AFC_NORTH"
+  },
+  "conference": {
+    "id": "1bdefe12-6cb2-4d6a-b208-b04602ae79c3",
+    "name": "AFC",
+    "alias": "AFC"
+  },
+  "coaches": [
+    {
+      "id": "55c246bc-be83-4f3e-85d0-26ca3e7884f6",
+      "full_name": "Arthur Smith",
+      "first_name": "Arthur",
+      "last_name": "Smith",
+      "position": "Offensive Coordinator"
+    },
+    {
+      "id": "b039e146-6bfb-4963-91c8-c4ed4d0394e6",
+      "full_name": "Teryl Austin",
+      "first_name": "Teryl",
+      "last_name": "Austin",
+      "position": "Defensive Coordinator"
+    }
+  ],
+  "team_colors": [
+    {
+      "type": "primary",
+      "hex_color": "#ffb612",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 255,
+        "green": 182,
+        "blue": 18
+      }
+    },
+    {
+      "type": "secondary",
+      "hex_color": "#101820",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 16,
+        "green": 24,
+        "blue": 32
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": "02b08a8b-a3bd-44d1-8930-e6f51b029a22",
+      "name": "Asante Samuel Jr.",
+      "jersey": "22",
+      "last_name": "Samuel",
+      "first_name": "Asante",
+      "abbr_name": "A.Samuel",
+      "birth_date": "1999-10-03",
+      "weight": 180.0,
+      "height": 70,
+      "position": "CB",
+      "birth_place": "Tallahassee, FL, USA",
+      "high_school": "St. Thomas Aquinas (FL)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197608",
+      "name_suffix": "Jr.",
+      "experience": 5,
+      "salary": 840000,
+      "draft": {
+        "year": 2021,
+        "round": 2,
+        "number": 47,
+        "team": {
+          "id": "1f6dcffb-9823-43cd-9ff4-e7a8466749b5",
+          "name": "Chargers",
+          "market": "Los Angeles",
+          "alias": "LAC",
+          "sr_id": "sr:competitor:4429"
+        }
+      },
+      "references": [
+        {
+          "source_id": "827ed05f-e71c-41c2-b334-aef1fa442811",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "04f0fefe-9d9d-44f5-94ea-6df2a42df3c6",
+      "name": "Pat Freiermuth",
+      "jersey": "88",
+      "last_name": "Freiermuth",
+      "first_name": "Pat",
+      "abbr_name": "P.Freiermuth",
+      "birth_date": "1998-10-25",
+      "weight": 258.0,
+      "height": 77,
+      "position": "TE",
+      "birth_place": "Newburyport, MA, USA",
+      "high_school": "Brooks School (MA)",
+      "college": "Penn State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197750",
+      "experience": 5,
+      "salary": 12885000,
+      "draft": {
+        "year": 2021,
+        "round": 2,
+        "number": 55,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f0075c8b-77bb-4203-b59e-266a59f924e9",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "0c306d14-6fe6-4b4e-b87f-871c72441947",
+      "name": "Christian Kuntz",
+      "jersey": "46",
+      "last_name": "Kuntz",
+      "first_name": "Christian",
+      "abbr_name": "C.Kuntz",
+      "birth_date": "1994-04-13",
+      "weight": 228.0,
+      "height": 73,
+      "position": "LS",
+      "birth_place": "Pittsburgh, PA, USA",
+      "high_school": "Chartiers Valley (PA)",
+      "college": "Duquesne",
+      "college_conf": "Northeast Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1274200",
+      "experience": 5,
+      "salary": 1278333,
+      "references": [
+        {
+          "source_id": "00-0034051"
+        },
+        {
+          "source_id": "45884"
+        }
+      ]
+    },
+    {
+      "id": "0ce48193-e2fa-466e-a986-33f751add206",
+      "name": "Aaron Rodgers",
+      "jersey": "8",
+      "last_name": "Rodgers",
+      "first_name": "Aaron",
+      "abbr_name": "A.Rodgers",
+      "birth_date": "1983-12-02",
+      "weight": 223.0,
+      "height": 74,
+      "position": "QB",
+      "birth_place": "Chico, CA, USA",
+      "high_school": "Pleasant Valley (CA)",
+      "college": "California",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2005,
+      "status": "ACT",
+      "sr_id": "sr:player:831375",
+      "experience": 21,
+      "salary": 14150000,
+      "draft": {
+        "year": 2005,
+        "round": 1,
+        "number": 24,
+        "team": {
+          "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+          "name": "Packers",
+          "market": "Green Bay",
+          "alias": "GB",
+          "sr_id": "sr:competitor:4420"
+        }
+      },
+      "references": [
+        {
+          "source_id": "29851"
+        },
+        {
+          "source_id": "00-0023459"
+        }
+      ]
+    },
+    {
+      "id": "1105ae60-a4b6-4246-a77e-0849179b07b2",
+      "name": "Chuck Clark",
+      "jersey": "21",
+      "last_name": "Clark",
+      "first_name": "Chuck",
+      "abbr_name": "C.Clark",
+      "birth_date": "1995-04-19",
+      "weight": 210.0,
+      "height": 72,
+      "position": "SAF",
+      "birth_place": "Suffolk, VA, USA",
+      "high_school": "King's Fork (VA)",
+      "college": "Virginia Tech",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1130051",
+      "experience": 9,
+      "salary": 0,
+      "draft": {
+        "year": 2017,
+        "round": 6,
+        "number": 186,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033294"
+        },
+        {
+          "source_id": "44999"
+        },
+        {
+          "source_id": "df1936e3-3c02-44a9-8a2f-418a045f614c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "1d8d5c04-15e7-4346-9d1f-f128e4df3adb",
+      "name": "Kyle Dugger",
+      "jersey": "29",
+      "last_name": "Dugger",
+      "first_name": "Kyle",
+      "abbr_name": "K.Dugger",
+      "birth_date": "1996-03-22",
+      "weight": 220.0,
+      "height": 73,
+      "position": "SAF",
+      "birth_place": "Decatur, GA, USA",
+      "high_school": "Whitewater (GA)",
+      "college": "Lenoir-Rhyne",
+      "college_conf": "South Atlantic Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040541",
+      "experience": 6,
+      "salary": 15264706,
+      "draft": {
+        "year": 2020,
+        "round": 2,
+        "number": 37,
+        "team": {
+          "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+          "name": "Patriots",
+          "market": "New England",
+          "alias": "NE",
+          "sr_id": "sr:competitor:4424"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036231"
+        },
+        {
+          "source_id": "52445"
+        }
+      ]
+    },
+    {
+      "id": "1fd56b66-3c11-4664-bb80-f0594f915923",
+      "name": "Derrick Harmon",
+      "jersey": "99",
+      "last_name": "Harmon",
+      "first_name": "Derrick",
+      "abbr_name": "D.Harmon",
+      "birth_date": "2003-08-03",
+      "weight": 313.0,
+      "height": 76,
+      "position": "DT",
+      "birth_place": "Detroit, MI, USA",
+      "high_school": "Loyola (MI)",
+      "college": "Oregon",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2151110",
+      "experience": 0,
+      "salary": 3267928,
+      "draft": {
+        "year": 2025,
+        "round": 1,
+        "number": 21,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f7d212ea-e83f-47fd-a3b1-7e3d10b5d743",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "2743d973-5944-460c-b17c-b1e029b11af9",
+      "name": "Jack Sawyer",
+      "jersey": "33",
+      "last_name": "Sawyer",
+      "first_name": "Jack",
+      "abbr_name": "J.Sawyer",
+      "birth_date": "2002-05-06",
+      "weight": 260.0,
+      "height": 76,
+      "position": "OLB",
+      "birth_place": "Pickerington, OH, USA",
+      "high_school": "Pickerington North (OH)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2152026",
+      "experience": 0,
+      "salary": 1077733,
+      "draft": {
+        "year": 2025,
+        "round": 4,
+        "number": 123,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3fc06dd6-5c0d-4400-88a8-f0ad232de31e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "3132d9fc-95bc-43a9-8449-df3c74d872e8",
+      "name": "Logan Lee",
+      "jersey": "91",
+      "last_name": "Lee",
+      "first_name": "Logan",
+      "abbr_name": "L.Lee",
+      "birth_date": "2000-06-12",
+      "weight": 286.0,
+      "height": 77,
+      "position": "DT",
+      "birth_place": "Orion, IL, USA",
+      "high_school": "Orion (IL)",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1692925",
+      "experience": 2,
+      "salary": 895018,
+      "draft": {
+        "year": 2024,
+        "round": 6,
+        "number": 178,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "7891ab70-b337-4996-bf17-e2722f209493",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "32575119-3aca-47cb-aaaf-162c48b7d372",
+      "name": "Malik Harrison",
+      "jersey": "50",
+      "last_name": "Harrison",
+      "first_name": "Malik",
+      "abbr_name": "M.Harrison",
+      "birth_date": "1998-03-05",
+      "weight": 247.0,
+      "height": 75,
+      "position": "OLB",
+      "birth_place": "Columbus, OH, USA",
+      "high_school": "Walnut Ridge (OH)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040123",
+      "experience": 6,
+      "salary": 3210000,
+      "draft": {
+        "year": 2020,
+        "round": 3,
+        "number": 98,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036280"
+        },
+        {
+          "source_id": "52506"
+        },
+        {
+          "source_id": "397ba991-3c40-4852-bc66-d716e073f051",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "32a47bc0-c980-11ec-a1a0-57a82b503f37",
+      "name": "Jeremiah Moon",
+      "jersey": "53",
+      "last_name": "Moon",
+      "first_name": "Jeremiah",
+      "abbr_name": "J.Moon",
+      "birth_date": "1998-08-18",
+      "weight": 247.0,
+      "height": 77,
+      "position": "LB",
+      "birth_place": "Hoover, AL, USA",
+      "high_school": "Hoover (AL)",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1219248",
+      "experience": 3,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "11f1906b-da68-406d-89cb-5598b2a95139",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "32b2d6f6-a636-4d73-927c-361c1aa809f5",
+      "name": "Corliss Waitman",
+      "jersey": "3",
+      "last_name": "Waitman",
+      "first_name": "Corliss",
+      "abbr_name": "C.Waitman",
+      "birth_date": "1995-07-21",
+      "weight": 210.0,
+      "height": 74,
+      "position": "P",
+      "birth_place": "Milton, FL, USA",
+      "high_school": "Milton (FL)",
+      "college": "South Alabama",
+      "college_conf": "Sun Belt Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:1192416",
+      "experience": 3,
+      "salary": 1100000,
+      "references": [
+        {
+          "source_id": "00-0035821"
+        },
+        {
+          "source_id": "52723"
+        },
+        {
+          "source_id": "1b1e5f3d-c32a-44bb-aa6d-88bcc2a9f53d",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "3f4025d1-5782-43e4-9f42-8eee2da66a95",
+      "name": "Alex Highsmith",
+      "jersey": "56",
+      "last_name": "Highsmith",
+      "first_name": "Alex",
+      "abbr_name": "A.Highsmith",
+      "birth_date": "1997-08-07",
+      "weight": 242.0,
+      "height": 76,
+      "position": "LB",
+      "birth_place": "Wilmington, NC, USA",
+      "high_school": "Eugene Ashley (NC)",
+      "college": "Charlotte",
+      "college_conf": "Conference USA",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040613",
+      "experience": 6,
+      "salary": 18602000,
+      "draft": {
+        "year": 2020,
+        "round": 3,
+        "number": 102,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036333"
+        },
+        {
+          "source_id": "52510"
+        },
+        {
+          "source_id": "26aaddb4-b58e-48fe-a6d2-16dc06b99d73",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "43563ab6-46b9-44d3-aaf2-bc1eb4d1f8d1",
+      "name": "Roman Wilson",
+      "jersey": "10",
+      "last_name": "Wilson",
+      "first_name": "Roman",
+      "abbr_name": "R.Wilson",
+      "birth_date": "2001-06-19",
+      "weight": 186.0,
+      "height": 70,
+      "position": "WR",
+      "birth_place": "Kihei, HI, USA",
+      "high_school": "Saint Louis (HI)",
+      "college": "Michigan",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2000745",
+      "experience": 2,
+      "salary": 1305720,
+      "draft": {
+        "year": 2024,
+        "round": 3,
+        "number": 84,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "20cd9d41-b0b0-430f-8dad-fdc09b135f3c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "441eb531-1ec8-4f65-9174-78bc6adada63",
+      "name": "Chris Boswell",
+      "jersey": "9",
+      "last_name": "Boswell",
+      "first_name": "Chris",
+      "abbr_name": "C.Boswell",
+      "birth_date": "1991-03-16",
+      "weight": 185.0,
+      "height": 74,
+      "position": "K",
+      "birth_place": "Keller, TX, USA",
+      "high_school": "Fossil Ridge (TX)",
+      "college": "Rice",
+      "college_conf": "Conference USA",
+      "rookie_year": 2014,
+      "status": "ACT",
+      "sr_id": "sr:player:829301",
+      "experience": 11,
+      "salary": 4720000,
+      "references": [
+        {
+          "source_id": "41953"
+        },
+        {
+          "source_id": "00-0031136"
+        },
+        {
+          "source_id": "a2060925-d362-474b-abe0-4f73732178b6",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "447db942-40e8-4bb3-9710-b12cfaaafb46",
+      "name": "Isaac Seumalo",
+      "jersey": "73",
+      "last_name": "Seumalo",
+      "first_name": "Isaac",
+      "abbr_name": "I.Seumalo",
+      "birth_date": "1993-10-29",
+      "weight": 303.0,
+      "height": 76,
+      "position": "G",
+      "birth_place": "Corvallis, OR, USA",
+      "high_school": "Corvallis (OR)",
+      "college": "Oregon State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2016,
+      "status": "ACT",
+      "sr_id": "sr:player:987679",
+      "experience": 10,
+      "salary": 10191668,
+      "draft": {
+        "year": 2016,
+        "round": 3,
+        "number": 79,
+        "team": {
+          "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+          "name": "Eagles",
+          "market": "Philadelphia",
+          "alias": "PHI",
+          "sr_id": "sr:competitor:4428"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0032954"
+        },
+        {
+          "source_id": "43368"
+        },
+        {
+          "source_id": "0d4f07e8-7b35-42cb-b5ba-7f248fce3d51",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "45ef2670-2382-434b-8f26-ba13f044236e",
+      "name": "Jabrill Peppers",
+      "jersey": "40",
+      "last_name": "Peppers",
+      "first_name": "Jabrill",
+      "abbr_name": "J.Peppers",
+      "birth_date": "1995-10-04",
+      "weight": 213.0,
+      "height": 71,
+      "position": "SAF",
+      "birth_place": "East Orange, NJ, USA",
+      "high_school": "Paramus Catholic (NJ)",
+      "college": "Michigan",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129565",
+      "experience": 9,
+      "salary": 0,
+      "draft": {
+        "year": 2017,
+        "round": 1,
+        "number": 25,
+        "team": {
+          "id": "d5a2eb42-8065-4174-ab79-0a6fa820e35e",
+          "name": "Browns",
+          "market": "Cleveland",
+          "alias": "CLE",
+          "sr_id": "sr:competitor:4417"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033883"
+        },
+        {
+          "source_id": "44837"
+        },
+        {
+          "source_id": "4d602643-0c70-41e9-9fe0-5c4f4d1f9181",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "5521ba64-e615-4d50-b9bf-490498571ac7",
+      "name": "Ben Skowronek",
+      "jersey": "15",
+      "last_name": "Skowronek",
+      "first_name": "Ben",
+      "abbr_name": "B.Skowronek",
+      "birth_date": "1997-06-27",
+      "weight": 224.0,
+      "height": 75,
+      "position": "WR",
+      "birth_place": "Indianapolis, IN, USA",
+      "high_school": "Homestead (IN)",
+      "college": "Notre Dame",
+      "college_conf": "Independent",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197602",
+      "experience": 5,
+      "salary": 1710000,
+      "draft": {
+        "year": 2021,
+        "round": 7,
+        "number": 249,
+        "team": {
+          "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+          "name": "Rams",
+          "market": "Los Angeles",
+          "alias": "LA",
+          "sr_id": "sr:competitor:4387"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f7f5e212-dfd6-4895-b138-6d16354550ca",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "57adb660-d3e0-11ec-8afa-57d9afd0ecba",
+      "name": "Dylan Cook",
+      "jersey": "60",
+      "last_name": "Cook",
+      "first_name": "Dylan",
+      "abbr_name": "D.Cook",
+      "birth_date": "1998-01-11",
+      "weight": 305.0,
+      "height": 78,
+      "position": "OT",
+      "birth_place": "Butte, MT, USA",
+      "high_school": "Butte (MT)",
+      "college": "Montana",
+      "college_conf": "Big Sky Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1711623",
+      "experience": 3,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "d2a35432-51f4-455b-979d-07677c676103",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "59b7b521-a0be-4ee5-8809-362601c2c80e",
+      "name": "Nick Herbig",
+      "jersey": "51",
+      "last_name": "Herbig",
+      "first_name": "Nick",
+      "abbr_name": "N.Herbig",
+      "birth_date": "2001-11-21",
+      "weight": 240.0,
+      "height": 74,
+      "position": "LB",
+      "birth_place": "Kauai, HI, USA",
+      "high_school": "Saint Louis School (HI)",
+      "college": "Wisconsin",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:2001669",
+      "experience": 3,
+      "salary": 1198230,
+      "draft": {
+        "year": 2023,
+        "round": 4,
+        "number": 132,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "4b9cd25a-91ae-4bce-9068-c9fdf70c7c06",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "5d19be5f-da33-4d86-b910-06e4ccd7f0c7",
+      "name": "Carson Bruener",
+      "jersey": "44",
+      "last_name": "Bruener",
+      "first_name": "Carson",
+      "abbr_name": "C.Bruener",
+      "birth_date": "2001-06-05",
+      "weight": 227.0,
+      "height": 73,
+      "position": "LB",
+      "birth_place": "Woodinville, WA, USA",
+      "high_school": "Redmond (WA)",
+      "college": "Washington",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2006649",
+      "experience": 0,
+      "salary": 874235,
+      "draft": {
+        "year": 2025,
+        "round": 7,
+        "number": 226,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "d4bb1a6c-0653-4bf1-a3a3-9b43a5847174",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "62e96d7c-e4dd-4a90-8c3a-8017eb69120d",
+      "name": "Connor Heyward",
+      "jersey": "83",
+      "last_name": "Heyward",
+      "first_name": "Connor",
+      "abbr_name": "C.Heyward",
+      "birth_date": "1999-01-22",
+      "weight": 230.0,
+      "height": 72,
+      "position": "TE",
+      "birth_place": "Duluth, GA, USA",
+      "high_school": "Peachtree Ridge (GA)",
+      "college": "Michigan State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1232432",
+      "experience": 4,
+      "salary": 1138806,
+      "draft": {
+        "year": 2022,
+        "round": 6,
+        "number": 208,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "7e7ac65e-329e-4b3d-b671-4d192f5b9ee4",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "6646a5d5-9d75-4ba8-a4f9-05ba3b639095",
+      "name": "Troy Fautanu",
+      "jersey": "76",
+      "last_name": "Fautanu",
+      "first_name": "Troy",
+      "abbr_name": "T.Fautanu",
+      "birth_date": "2000-10-11",
+      "weight": 317.0,
+      "height": 76,
+      "position": "OT",
+      "birth_place": "Henderson, NV, USA",
+      "high_school": "Liberty (NV)",
+      "college": "Washington",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1696175",
+      "experience": 2,
+      "salary": 3421658,
+      "draft": {
+        "year": 2024,
+        "round": 1,
+        "number": 20,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3af57cbc-8e9c-4b3e-b817-9a00f4f72ac3",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "6a7047a5-52ab-4e2d-8ab0-6d27b6930822",
+      "name": "Payton Wilson",
+      "jersey": "41",
+      "last_name": "Wilson",
+      "first_name": "Payton",
+      "abbr_name": "P.Wilson",
+      "birth_date": "2000-04-21",
+      "weight": 242.0,
+      "height": 76,
+      "position": "LB",
+      "birth_place": "Hillsborough, NC, USA",
+      "high_school": "Orange (NC)",
+      "college": "North Carolina State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1411071",
+      "experience": 2,
+      "salary": 1271889,
+      "draft": {
+        "year": 2024,
+        "round": 3,
+        "number": 98,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "38982057-3e40-48b4-9cd9-746867d49fa8",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "6e0bbdc7-fa74-41d2-b3de-4eaa8e670f87",
+      "name": "James Pierre",
+      "jersey": "42",
+      "last_name": "Pierre",
+      "first_name": "James",
+      "abbr_name": "J.Pierre",
+      "birth_date": "1996-09-16",
+      "weight": 185.0,
+      "height": 74,
+      "position": "CB",
+      "birth_place": "Deerfield Beach, FL, USA",
+      "high_school": "Deerfield Beach (FL)",
+      "college": "Florida Atlantic",
+      "college_conf": "Conference USA",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040235",
+      "experience": 6,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "00-0035795"
+        },
+        {
+          "source_id": "52697"
+        },
+        {
+          "source_id": "1b2c1ae2-1220-4a22-9c96-981c1fc301dc",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "754faf0f-40f7-45f0-b23b-6ce990ecaf26",
+      "name": "DK Metcalf",
+      "jersey": "4",
+      "last_name": "Metcalf",
+      "first_name": "DK",
+      "abbr_name": "D.Metcalf",
+      "birth_date": "1997-12-14",
+      "weight": 229.0,
+      "height": 76,
+      "position": "WR",
+      "birth_place": "Oxford, MS, USA",
+      "high_school": "Oxford (MS)",
+      "college": "Ole Miss",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1230010",
+      "experience": 7,
+      "salary": 11000000,
+      "draft": {
+        "year": 2019,
+        "round": 2,
+        "number": 64,
+        "team": {
+          "id": "3d08af9e-c767-4f88-a7dc-b920c6d2b4a8",
+          "name": "Seahawks",
+          "market": "Seattle",
+          "alias": "SEA",
+          "sr_id": "sr:competitor:4430"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0035640"
+        },
+        {
+          "source_id": "47847"
+        },
+        {
+          "source_id": "1802808c-e4c5-44d1-a4a0-c08325fa5df4",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7c023589-734d-489f-ac09-577d48f772f3",
+      "name": "Brandin Echols",
+      "jersey": "26",
+      "last_name": "Echols",
+      "first_name": "Brandin",
+      "abbr_name": "B.Echols",
+      "birth_date": "1997-10-16",
+      "weight": 179.0,
+      "height": 70,
+      "position": "CB",
+      "birth_place": "Memphis, TN, USA",
+      "high_school": "Southaven (MS)",
+      "college": "Kentucky",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198684",
+      "experience": 5,
+      "salary": 2085000,
+      "draft": {
+        "year": 2021,
+        "round": 6,
+        "number": 200,
+        "team": {
+          "id": "5fee86ae-74ab-4bdd-8416-42a9dd9964f3",
+          "name": "Jets",
+          "market": "New York",
+          "alias": "NYJ",
+          "sr_id": "sr:competitor:4427"
+        }
+      },
+      "references": [
+        {
+          "source_id": "73823adc-2fb5-476c-9aac-a62ec5d90e56",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7e397190-ca24-11ec-9f1c-b7114d38a85b",
+      "name": "Jaylen Warren",
+      "jersey": "30",
+      "last_name": "Warren",
+      "first_name": "Jaylen",
+      "abbr_name": "J.Warren",
+      "birth_date": "1998-11-01",
+      "weight": 215.0,
+      "height": 68,
+      "position": "RB",
+      "birth_place": "Clinton, NC, USA",
+      "high_school": "East (UT)",
+      "college": "Oklahoma State",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1873924",
+      "experience": 4,
+      "salary": 5346000,
+      "references": [
+        {
+          "source_id": "22cdee96-d0da-4b5e-ae3d-6260547d0652",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "83657965-d1b5-4317-84bf-f9e471629993",
+      "name": "Jack Driscoll",
+      "jersey": "68",
+      "last_name": "Driscoll",
+      "first_name": "Jack",
+      "abbr_name": "J.Driscoll",
+      "birth_date": "1997-04-01",
+      "weight": 312.0,
+      "height": 77,
+      "position": "OL",
+      "birth_place": "Madison, CT, USA",
+      "high_school": "Daniel Hand (CT)",
+      "college": "Auburn",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040379",
+      "experience": 6,
+      "draft": {
+        "year": 2020,
+        "round": 4,
+        "number": 145,
+        "team": {
+          "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+          "name": "Eagles",
+          "market": "Philadelphia",
+          "alias": "PHI",
+          "sr_id": "sr:competitor:4428"
+        }
+      },
+      "references": [
+        {
+          "source_id": "52553"
+        },
+        {
+          "source_id": "00-0036396"
+        },
+        {
+          "source_id": "e01c5e02-a0c9-4424-acdd-1c1614df1b62",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "85e18d5f-8a3f-4b6c-88fe-dfdaaed5554e",
+      "name": "Scotty Miller",
+      "jersey": "13",
+      "last_name": "Miller",
+      "first_name": "Scotty",
+      "abbr_name": "S.Miller",
+      "birth_date": "1997-07-31",
+      "weight": 174.0,
+      "height": 69,
+      "position": "WR",
+      "birth_place": "Barrington, IL, USA",
+      "high_school": "Barrington (IL)",
+      "college": "Bowling Green",
+      "college_conf": "Mid-American Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1225268",
+      "experience": 7,
+      "salary": 1197500,
+      "draft": {
+        "year": 2019,
+        "round": 6,
+        "number": 208,
+        "team": {
+          "id": "4254d319-1bc7-4f81-b4ab-b5e6f3402b69",
+          "name": "Buccaneers",
+          "market": "Tampa Bay",
+          "alias": "TB",
+          "sr_id": "sr:competitor:4388"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47991"
+        },
+        {
+          "source_id": "00-0035298"
+        },
+        {
+          "source_id": "0dc392fb-5755-4ee9-83eb-2bfac4427626",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9331aafb-e40a-4b33-8f8c-d2c1fb798782",
+      "name": "Yahya Black",
+      "jersey": "94",
+      "last_name": "Black",
+      "first_name": "Yahya",
+      "abbr_name": "Y.Black",
+      "birth_date": "2002-04-21",
+      "weight": 336.0,
+      "height": 77,
+      "position": "DE",
+      "birth_place": "Marshall, MN, USA",
+      "high_school": "Marshall (MN)",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1998755",
+      "experience": 0,
+      "salary": 934959,
+      "draft": {
+        "year": 2025,
+        "round": 5,
+        "number": 164,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "36924921-3b2e-4623-9812-4e537551c803",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9738de9a-7626-460f-a786-28433ef70a1f",
+      "name": "Kaleb Johnson",
+      "jersey": "20",
+      "last_name": "Johnson",
+      "first_name": "Kaleb",
+      "abbr_name": "K.Johnson",
+      "birth_date": "2003-08-14",
+      "weight": 224.0,
+      "height": 73,
+      "position": "RB",
+      "birth_place": "Cincinnati, OH, USA",
+      "high_school": "Hamilton (OH)",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2988875",
+      "experience": 0,
+      "salary": 1158557,
+      "draft": {
+        "year": 2025,
+        "round": 3,
+        "number": 83,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9779acc7-ed88-4a16-b78d-230ace9ec3eb",
+      "name": "Cameron Heyward",
+      "jersey": "97",
+      "last_name": "Heyward",
+      "first_name": "Cameron",
+      "abbr_name": "C.Heyward",
+      "birth_date": "1989-05-06",
+      "weight": 295.0,
+      "height": 77,
+      "position": "DT",
+      "birth_place": "Pittsburgh, PA, USA",
+      "high_school": "Peachtree Ridge (GA)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2011,
+      "status": "ACT",
+      "sr_id": "sr:player:829603",
+      "experience": 15,
+      "salary": 19650000,
+      "draft": {
+        "year": 2011,
+        "round": 1,
+        "number": 31,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "37104"
+        },
+        {
+          "source_id": "00-0027969"
+        }
+      ]
+    },
+    {
+      "id": "9fd22aa3-6cb6-4bae-af1b-cc0ba0511e08",
+      "name": "Keeanu Benton",
+      "jersey": "95",
+      "last_name": "Benton",
+      "first_name": "Keeanu",
+      "abbr_name": "K.Benton",
+      "birth_date": "2001-07-17",
+      "weight": 309.0,
+      "height": 76,
+      "position": "DT",
+      "birth_place": "Janesville, WI, USA",
+      "high_school": "Joseph A. Craig (WI)",
+      "college": "Wisconsin",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1695589",
+      "experience": 3,
+      "salary": 1999942,
+      "draft": {
+        "year": 2023,
+        "round": 2,
+        "number": 49,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "84710fea-c19d-48c6-ac62-0334f02ee00e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a8233d9b-6384-4220-9cf3-25158e942d70",
+      "name": "Ryan McCollum",
+      "jersey": "62",
+      "last_name": "McCollum",
+      "first_name": "Ryan",
+      "abbr_name": "R.McCollum",
+      "birth_date": "1998-03-04",
+      "weight": 300.0,
+      "height": 77,
+      "position": "C",
+      "birth_place": "Spring, TX, USA",
+      "high_school": "Klein Oak (TX)",
+      "college": "Texas A&M",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198534",
+      "experience": 3,
+      "salary": 1030000,
+      "references": [
+        {
+          "source_id": "b3dd988b-1a4a-4a9d-b22d-6b79d257e057",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a95271f7-6dae-4b43-94fd-3ff04b15d4c4",
+      "name": "Calvin Austin III",
+      "jersey": "19",
+      "last_name": "Austin",
+      "first_name": "Calvin",
+      "abbr_name": "C.Austin",
+      "birth_date": "1999-03-24",
+      "weight": 162.0,
+      "height": 69,
+      "position": "WR",
+      "birth_place": "Memphis, TN, USA",
+      "high_school": "Harding Academy (TN)",
+      "college": "Memphis",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1254152",
+      "name_suffix": "III",
+      "experience": 4,
+      "salary": 1226085,
+      "draft": {
+        "year": 2022,
+        "round": 4,
+        "number": 138,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      }
+    },
+    {
+      "id": "ab7a4eef-8591-448d-ad78-02b21a38504e",
+      "name": "Zach Frazier",
+      "jersey": "54",
+      "last_name": "Frazier",
+      "first_name": "Zach",
+      "abbr_name": "Z.Frazier",
+      "birth_date": "2001-08-29",
+      "weight": 310.0,
+      "height": 75,
+      "position": "C",
+      "birth_place": "Fairmont, WV, USA",
+      "high_school": "Fairmont Senior (WV)",
+      "college": "West Virginia",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2000577",
+      "experience": 2,
+      "salary": 1714594,
+      "draft": {
+        "year": 2024,
+        "round": 2,
+        "number": 51,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "abda94a5-62f5-48e9-997e-7881577af813",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "b358687b-d7f8-4c9b-bdd7-fe5d3b431fc1",
+      "name": "Spencer Anderson",
+      "jersey": "74",
+      "last_name": "Anderson",
+      "first_name": "Spencer",
+      "abbr_name": "S.Anderson",
+      "birth_date": "2000-06-07",
+      "weight": 305.0,
+      "height": 77,
+      "position": "OL",
+      "birth_place": "Bowie, MD, USA",
+      "high_school": "Bishop McNamara (MD)",
+      "college": "Maryland",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1436602",
+      "experience": 3,
+      "salary": 1049444,
+      "draft": {
+        "year": 2023,
+        "round": 7,
+        "number": 251,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "ca852570-2b8a-4704-b108-b520759c04ca",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "b8a1b579-3a7e-4858-960b-fbfaca8de613",
+      "name": "Will Howard",
+      "jersey": "18",
+      "last_name": "Howard",
+      "first_name": "Will",
+      "abbr_name": "W.Howard",
+      "birth_date": "2001-09-24",
+      "weight": 236.0,
+      "height": 76,
+      "position": "QB",
+      "birth_place": "Downingtown, PA, USA",
+      "high_school": "Downingtown (PA)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1997841",
+      "experience": 0,
+      "salary": 902025,
+      "draft": {
+        "year": 2025,
+        "round": 6,
+        "number": 185,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "6b7dffef-8f47-481d-af06-6f723473df5c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "bc4c0c7d-a6f4-4cff-95ec-a4d0523c2232",
+      "name": "Patrick Queen",
+      "jersey": "6",
+      "last_name": "Queen",
+      "first_name": "Patrick",
+      "abbr_name": "P.Queen",
+      "birth_date": "1999-08-13",
+      "weight": 232.0,
+      "height": 72,
+      "position": "LB",
+      "birth_place": "Ventress, LA, USA",
+      "high_school": "Livonia (LA)",
+      "college": "LSU",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040221",
+      "experience": 6,
+      "salary": 17693333,
+      "draft": {
+        "year": 2020,
+        "round": 1,
+        "number": 28,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036323"
+        },
+        {
+          "source_id": "52436"
+        },
+        {
+          "source_id": "3bde6a15-6dab-4014-966a-e4afa1c42771",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "be4ca0ad-f3d6-4b98-a37f-79d0cbc06390",
+      "name": "Mason Rudolph",
+      "jersey": "2",
+      "last_name": "Rudolph",
+      "first_name": "Mason",
+      "abbr_name": "M.Rudolph",
+      "birth_date": "1995-07-17",
+      "weight": 235.0,
+      "height": 77,
+      "position": "QB",
+      "birth_place": "Rock Hill, SC, USA",
+      "high_school": "Northwestern (SC)",
+      "college": "Oklahoma State",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1226430",
+      "experience": 8,
+      "salary": 3000000,
+      "draft": {
+        "year": 2018,
+        "round": 3,
+        "number": 76,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "46145"
+        },
+        {
+          "source_id": "00-0034771"
+        },
+        {
+          "source_id": "28ff89d2-331f-48e6-b75c-60b3ca771ab2",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c727b9d9-9776-415d-953c-9ae046e10a05",
+      "name": "Cole Holcomb",
+      "jersey": "55",
+      "last_name": "Holcomb",
+      "first_name": "Cole",
+      "abbr_name": "C.Holcomb",
+      "birth_date": "1996-07-30",
+      "weight": 240.0,
+      "height": 73,
+      "position": "LB",
+      "birth_place": "New Smyrna Beach, FL, USA",
+      "high_school": "New Smyrna Beach (FL)",
+      "college": "North Carolina",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1223176",
+      "experience": 7,
+      "salary": 3640000,
+      "draft": {
+        "year": 2019,
+        "round": 5,
+        "number": 173,
+        "team": {
+          "id": "22052ff7-c065-42ee-bc8f-c4691c50e624",
+          "name": "Commanders",
+          "market": "Washington",
+          "alias": "WAS",
+          "sr_id": "sr:competitor:4432"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47956"
+        },
+        {
+          "source_id": "00-0035286"
+        }
+      ]
+    },
+    {
+      "id": "ca53fda9-d20a-4bc7-b8dc-deef28355399",
+      "name": "Jalen Ramsey",
+      "jersey": "5",
+      "last_name": "Ramsey",
+      "first_name": "Jalen",
+      "abbr_name": "J.Ramsey",
+      "birth_date": "1994-10-24",
+      "weight": 211.0,
+      "height": 73,
+      "position": "CB",
+      "birth_place": "Smyrna, TN, USA",
+      "high_school": "Brentwood Academy (TN)",
+      "college": "Florida State",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2016,
+      "status": "ACT",
+      "sr_id": "sr:player:986891",
+      "experience": 10,
+      "salary": 4904000,
+      "draft": {
+        "year": 2016,
+        "round": 1,
+        "number": 5,
+        "team": {
+          "id": "f7ddd7fa-0bae-4f90-bc8e-669e4d6cf2de",
+          "name": "Jaguars",
+          "market": "Jacksonville",
+          "alias": "JAC",
+          "sr_id": "sr:competitor:4386"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033055"
+        },
+        {
+          "source_id": "43294"
+        },
+        {
+          "source_id": "cc6eda61-6c2f-428c-b612-a3420a07759e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e07c45a0-22f9-4ba2-9bbe-6c63e623bc38",
+      "name": "Andrus Peat",
+      "jersey": "71",
+      "last_name": "Peat",
+      "first_name": "Andrus",
+      "abbr_name": "A.Peat",
+      "birth_date": "1993-11-04",
+      "weight": 316.0,
+      "height": 79,
+      "position": "OG",
+      "birth_place": "Chandler, AZ, USA",
+      "high_school": "Corona del Sol (AZ)",
+      "college": "Stanford",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2015,
+      "status": "ACT",
+      "sr_id": "sr:player:834551",
+      "experience": 11,
+      "draft": {
+        "year": 2015,
+        "round": 1,
+        "number": 13,
+        "team": {
+          "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+          "name": "Saints",
+          "market": "New Orleans",
+          "alias": "NO",
+          "sr_id": "sr:competitor:4425"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0032203"
+        },
+        {
+          "source_id": "42356"
+        },
+        {
+          "source_id": "867626d4-4090-43e7-a9f5-3c092fe36af9",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e14b2d9f-0b10-41c6-99ae-ce918a2838be",
+      "name": "Mason McCormick",
+      "jersey": "66",
+      "last_name": "McCormick",
+      "first_name": "Mason",
+      "abbr_name": "M.McCormick",
+      "birth_date": "2000-05-25",
+      "weight": 315.0,
+      "height": 77,
+      "position": "G",
+      "birth_place": "Sioux Falls, SD, USA",
+      "high_school": "Roosevelt (SD)",
+      "college": "South Dakota State",
+      "college_conf": "Missouri Valley Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1546223",
+      "experience": 2,
+      "salary": 1151224,
+      "draft": {
+        "year": 2024,
+        "round": 4,
+        "number": 119,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3d89d6df-8dae-4ec9-baf4-88b6aab2ebc1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e1e303e9-062e-429c-a52b-23f88d9dc725",
+      "name": "Esezi Otomewo",
+      "jersey": "93",
+      "last_name": "Otomewo",
+      "first_name": "Esezi",
+      "abbr_name": "E.Otomewo",
+      "preferred_name": "Esezi",
+      "birth_date": "1999-03-09",
+      "weight": 282.0,
+      "height": 77,
+      "position": "DE",
+      "birth_place": "Indianapolis, IN, USA",
+      "high_school": "Ben Davis (IN)",
+      "college": "Minnesota",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1231286",
+      "experience": 3,
+      "salary": 1030000,
+      "draft": {
+        "year": 2022,
+        "round": 5,
+        "number": 165,
+        "team": {
+          "id": "33405046-04ee-4058-a950-d606f8c30852",
+          "name": "Vikings",
+          "market": "Minnesota",
+          "alias": "MIN",
+          "sr_id": "sr:competitor:4423"
+        }
+      },
+      "references": [
+        {
+          "source_id": "b6f17805-7691-4ea7-9623-db562cb7537d",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e2a5882a-dcc1-4800-889f-3b957b21834f",
+      "name": "Kenneth Gainwell",
+      "jersey": "14",
+      "last_name": "Gainwell",
+      "first_name": "Kenneth",
+      "abbr_name": "K.Gainwell",
+      "birth_date": "1999-03-14",
+      "weight": 200.0,
+      "height": 69,
+      "position": "RB",
+      "birth_place": "Antioch, CA, USA",
+      "high_school": "Yazoo County (MS)",
+      "college": "Memphis",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197640",
+      "experience": 5,
+      "salary": 1790000,
+      "draft": {
+        "year": 2021,
+        "round": 5,
+        "number": 150,
+        "team": {
+          "id": "386bdbf9-9eea-4869-bb9a-274b0bc66e80",
+          "name": "Eagles",
+          "market": "Philadelphia",
+          "alias": "PHI",
+          "sr_id": "sr:competitor:4428"
+        }
+      },
+      "references": [
+        {
+          "source_id": "80ac7bae-0707-47b1-bbb7-d3f2e2109513",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e4f25a37-74de-4bfb-b6c9-f50a4fab0b87",
+      "name": "Jonnu Smith",
+      "jersey": "81",
+      "last_name": "Smith",
+      "first_name": "Jonnu",
+      "abbr_name": "J.Smith",
+      "birth_date": "1995-08-22",
+      "weight": 248.0,
+      "height": 75,
+      "position": "TE",
+      "birth_place": "Ocala, FL, USA",
+      "high_school": "West Port (FL)",
+      "college": "Florida International",
+      "college_conf": "Conference USA",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129751",
+      "experience": 9,
+      "salary": 5127500,
+      "draft": {
+        "year": 2017,
+        "round": 3,
+        "number": 100,
+        "team": {
+          "id": "d26a1ca5-722d-4274-8f97-c92e49c96315",
+          "name": "Titans",
+          "market": "Tennessee",
+          "alias": "TEN",
+          "sr_id": "sr:competitor:367364"
+        }
+      },
+      "references": [
+        {
+          "source_id": "44912"
+        },
+        {
+          "source_id": "00-0033858"
+        },
+        {
+          "source_id": "4912dc46-0a66-4db9-8e91-5820719181bc",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
+      "name": "Marquez Valdes-Scantling",
+      "jersey": "11",
+      "last_name": "Valdes-Scantling",
+      "first_name": "Marquez",
+      "abbr_name": "M.Valdes-Scantling",
+      "birth_date": "1994-10-10",
+      "weight": 206.0,
+      "height": 76,
+      "position": "WR",
+      "birth_place": "St. Petersburg, FL, USA",
+      "high_school": "Lakewood (FL)",
+      "college": "South Florida",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1212086",
+      "experience": 8,
+      "salary": 0,
+      "draft": {
+        "year": 2018,
+        "round": 5,
+        "number": 174,
+        "team": {
+          "id": "a20471b4-a8d9-40c7-95ad-90cc30e46932",
+          "name": "Packers",
+          "market": "Green Bay",
+          "alias": "GB",
+          "sr_id": "sr:competitor:4420"
+        }
+      },
+      "references": [
+        {
+          "source_id": "46243"
+        },
+        {
+          "source_id": "00-0034272"
+        },
+        {
+          "source_id": "83a815e7-96b0-4649-b499-2f44e0867793",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f340201b-a1b1-43ba-a47a-484a44334553",
+      "name": "T.J. Watt",
+      "jersey": "90",
+      "last_name": "Watt",
+      "first_name": "T.J.",
+      "abbr_name": "T.Watt",
+      "birth_date": "1994-10-11",
+      "weight": 252.0,
+      "height": 76,
+      "position": "LB",
+      "birth_place": "Pewaukee, WI, USA",
+      "high_school": "Pewaukee (WI)",
+      "college": "Wisconsin",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129547",
+      "experience": 9,
+      "salary": 23368694,
+      "draft": {
+        "year": 2017,
+        "round": 1,
+        "number": 30,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "44842"
+        },
+        {
+          "source_id": "00-0033886"
+        },
+        {
+          "source_id": "7ecafa13-28ce-4218-b152-95777d06fc80",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f38fa130-2516-11f0-861c-af2c02a86775",
+      "name": "Sebastian Castro",
+      "jersey": "49",
+      "last_name": "Castro",
+      "first_name": "Sebastian",
+      "abbr_name": "S.Castro",
+      "birth_date": "2000-10-14",
+      "weight": 203.0,
+      "height": 71,
+      "position": "SAF",
+      "birth_place": "Oak Lawn, IL, USA",
+      "high_school": "Richards (IL)",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1692947",
+      "experience": 0,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "23951ed6-e330-454c-8315-c937bafe301b",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "fbc596af-8abd-466f-9c01-7a38d11eb7a4",
+      "name": "Joey Porter Jr.",
+      "jersey": "24",
+      "last_name": "Porter",
+      "first_name": "Joey",
+      "abbr_name": "J.Porter",
+      "birth_date": "2000-07-26",
+      "weight": 193.0,
+      "height": 74,
+      "position": "CB",
+      "birth_place": "Bakersfield, CA, USA",
+      "high_school": "North Allegheny (PA)",
+      "college": "Penn State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1695463",
+      "name_suffix": "Jr.",
+      "experience": 3,
+      "salary": 2623185,
+      "draft": {
+        "year": 2023,
+        "round": 2,
+        "number": 32,
+        "team": {
+          "id": "cb2f9f1f-ac67-424e-9e72-1475cb0ed398",
+          "name": "Steelers",
+          "market": "Pittsburgh",
+          "alias": "PIT",
+          "sr_id": "sr:competitor:4345"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3518bfad-5043-4113-bb01-6745e47f45e0",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2026-01-20 20:00:35 +0000 ended @ 2026-01-20 20:00:35 +0000"
+}

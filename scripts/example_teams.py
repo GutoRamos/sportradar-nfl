@@ -1,5 +1,5 @@
 import json
-from src.nfl_service import get_teams
+from sportradar_nfl.nfl_service import get_teams
 
 if __name__ == "__main__":
     data = get_teams()

@@ -1,0 +1,2044 @@
+{
+  "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+  "name": "Broncos",
+  "market": "Denver",
+  "alias": "DEN",
+  "sr_id": "sr:competitor:4418",
+  "founded": 1960,
+  "owner": "Walton-Penner Family Group",
+  "general_manager": "George Paton",
+  "president": "Damani Leech",
+  "mascot": "Miles, Thunder",
+  "championships_won": 3,
+  "championship_seasons": "1997, 1998, 2015",
+  "conference_titles": 8,
+  "division_titles": 16,
+  "playoff_appearances": 24,
+  "franchise": {
+    "id": "32e2db10-be6d-41ed-9e3d-5b30ba164b99",
+    "name": "Broncos",
+    "alias": "DEN"
+  },
+  "venue": {
+    "id": "6589e61d-ef1e-4e30-91b5-9acd2072b8a0",
+    "name": "Empower Field at Mile High",
+    "city": "Denver",
+    "state": "CO",
+    "country": "USA",
+    "zip": "80204",
+    "address": "1701 Mile High Stadium Circle",
+    "capacity": 76125,
+    "surface": "turf",
+    "roof_type": "outdoor",
+    "sr_id": "sr:venue:8179",
+    "location": {
+      "lat": "39.743865",
+      "lng": "-105.020158"
+    }
+  },
+  "division": {
+    "id": "324decdd-aa1b-4074-8958-c009d8fac31a",
+    "name": "AFC West",
+    "alias": "AFC_WEST"
+  },
+  "conference": {
+    "id": "1bdefe12-6cb2-4d6a-b208-b04602ae79c3",
+    "name": "AFC",
+    "alias": "AFC"
+  },
+  "coaches": [
+    {
+      "id": "1e790489-f669-42e8-8c5e-f3767c4c8ae3",
+      "full_name": "Joe Lombardi",
+      "first_name": "Joe",
+      "last_name": "Lombardi",
+      "position": "Offensive Coordinator"
+    },
+    {
+      "id": "60269cd5-9c09-4bd9-a544-59ff6753cfd0",
+      "full_name": "Sean Payton",
+      "first_name": "Sean",
+      "last_name": "Payton",
+      "position": "Head Coach"
+    },
+    {
+      "id": "6150ac50-9ac0-11ef-a138-fd6e034ce929",
+      "full_name": "Darren Rizzi",
+      "first_name": "Darren",
+      "last_name": "Rizzi",
+      "position": "Special Teams Coordinator"
+    },
+    {
+      "id": "677f23fd-47b6-425c-8f90-b1b9b8f159a6",
+      "full_name": "Vance Joseph",
+      "first_name": "Vance",
+      "last_name": "Joseph",
+      "position": "Defensive Coordinator"
+    }
+  ],
+  "team_colors": [
+    {
+      "type": "secondary",
+      "hex_color": "#002244",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 0,
+        "green": 34,
+        "blue": 68
+      }
+    },
+    {
+      "type": "primary",
+      "hex_color": "#fb4f14",
+      "alpha": 0.0,
+      "rgb_color": {
+        "red": 251,
+        "green": 79,
+        "blue": 20
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": "09fab9a8-b0af-4580-bf55-5c9167912f89",
+      "name": "Garett Bolles",
+      "jersey": "72",
+      "last_name": "Bolles",
+      "first_name": "Garett",
+      "abbr_name": "G.Bolles",
+      "birth_date": "1992-05-27",
+      "weight": 300.0,
+      "height": 77,
+      "position": "T",
+      "birth_place": "Walnut Creek, CA, USA",
+      "high_school": "Westlake (CA)",
+      "college": "Utah",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129515",
+      "experience": 9,
+      "salary": 5816000,
+      "draft": {
+        "year": 2017,
+        "round": 1,
+        "number": 20,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033538"
+        },
+        {
+          "source_id": "44832"
+        }
+      ]
+    },
+    {
+      "id": "155980c2-e289-48c4-a047-09c08d0ce7ae",
+      "name": "P.J. Locke",
+      "jersey": "6",
+      "last_name": "Locke",
+      "first_name": "P.J.",
+      "abbr_name": "P.Locke",
+      "birth_date": "1997-02-12",
+      "weight": 202.0,
+      "height": 70,
+      "position": "SAF",
+      "birth_place": "Beaumont, TX, USA",
+      "high_school": "Central (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1227106",
+      "experience": 6,
+      "salary": 5190000,
+      "references": [
+        {
+          "source_id": "48447"
+        },
+        {
+          "source_id": "00-0035227"
+        },
+        {
+          "source_id": "85b8f783-92c6-4620-a6f3-aef6737d1045",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "20e8addc-8e4f-4c4e-937d-3788de9c1e6f",
+      "name": "Sam Mustipher",
+      "jersey": "61",
+      "last_name": "Mustipher",
+      "first_name": "Sam",
+      "abbr_name": "S.Mustipher",
+      "birth_date": "1996-08-13",
+      "weight": 306.0,
+      "height": 75,
+      "position": "C",
+      "birth_place": "Owings Mills, MD, USA",
+      "high_school": "Good Counsel (MD)",
+      "college": "Notre Dame",
+      "college_conf": "Independent",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1203298",
+      "experience": 6,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "00-0035062"
+        },
+        {
+          "source_id": "48159"
+        },
+        {
+          "source_id": "e26497e6-ae14-483b-8eba-1c0e236a0522",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "2858209e-4aa7-4539-9901-99a4d881229c",
+      "name": "Pat Bryant",
+      "jersey": "13",
+      "last_name": "Bryant",
+      "first_name": "Pat",
+      "abbr_name": "P.Bryant",
+      "birth_date": "2002-12-10",
+      "weight": 204.0,
+      "height": 74,
+      "position": "WR",
+      "birth_place": "Jacksonville, FL, USA",
+      "high_school": "Atlantic Coast (FL)",
+      "college": "Illinois",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2152156",
+      "experience": 0,
+      "salary": 1196560,
+      "draft": {
+        "year": 2025,
+        "round": 3,
+        "number": 74,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "e7af373f-e0f6-4e57-99f4-c7981087250e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "417f4ddc-b1a4-432d-bbcf-e95236c10efc",
+      "name": "Mitchell Fraboni",
+      "jersey": "48",
+      "last_name": "Fraboni",
+      "first_name": "Mitchell",
+      "abbr_name": "M.Fraboni",
+      "birth_date": "1996-10-28",
+      "weight": 223.0,
+      "height": 74,
+      "position": "LS",
+      "birth_place": "Phoenix, AZ, USA",
+      "high_school": "Mountain Pointe (AZ)",
+      "college": "Arizona State",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1226602",
+      "experience": 4,
+      "salary": 1300000,
+      "references": [
+        {
+          "source_id": "469df976-9ebd-484a-8918-a38f1bec5dbc",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "4e14183b-f974-4745-9d7f-8f5eb2a92a7d",
+      "name": "Adam Trautman",
+      "jersey": "82",
+      "last_name": "Trautman",
+      "first_name": "Adam",
+      "abbr_name": "A.Trautman",
+      "birth_date": "1997-02-05",
+      "weight": 253.0,
+      "height": 77,
+      "position": "TE",
+      "birth_place": "Williamsburg, MI, USA",
+      "high_school": "Elk Rapids (MI)",
+      "college": "Dayton",
+      "college_conf": "Pioneer Football League",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040599",
+      "experience": 6,
+      "salary": 4500000,
+      "draft": {
+        "year": 2020,
+        "round": 3,
+        "number": 105,
+        "team": {
+          "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+          "name": "Saints",
+          "market": "New Orleans",
+          "alias": "NO",
+          "sr_id": "sr:competitor:4425"
+        }
+      },
+      "references": [
+        {
+          "source_id": "52513"
+        },
+        {
+          "source_id": "00-0036422"
+        }
+      ]
+    },
+    {
+      "id": "51b134e9-4aed-4dfc-a2dd-ed03f42b3c0e",
+      "name": "Sai'vion Jones",
+      "jersey": "95",
+      "last_name": "Jones",
+      "first_name": "Sai'vion",
+      "abbr_name": "S.Jones",
+      "birth_date": "2003-07-03",
+      "weight": 289.0,
+      "height": 77,
+      "position": "DE",
+      "birth_place": "Vacherie, LA, USA",
+      "high_school": "St. James (LA)",
+      "college": "LSU",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2157558",
+      "experience": 0,
+      "salary": 1120215,
+      "draft": {
+        "year": 2025,
+        "round": 3,
+        "number": 101,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "d980e441-9b33-4041-90e5-2d2508bfd4cf",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "582fe465-135a-4901-beef-60aebce99067",
+      "name": "Jarrett Stidham",
+      "jersey": "8",
+      "last_name": "Stidham",
+      "first_name": "Jarrett",
+      "abbr_name": "J.Stidham",
+      "birth_date": "1996-08-08",
+      "weight": 215.0,
+      "height": 75,
+      "position": "QB",
+      "birth_place": "Stephenville, TX, USA",
+      "high_school": "Stephenville (TX)",
+      "college": "Auburn",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1232264",
+      "experience": 6,
+      "salary": 4000000,
+      "draft": {
+        "year": 2019,
+        "round": 4,
+        "number": 133,
+        "team": {
+          "id": "97354895-8c77-4fd4-a860-32e62ea7382a",
+          "name": "Patriots",
+          "market": "New England",
+          "alias": "NE",
+          "sr_id": "sr:competitor:4424"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0035264"
+        },
+        {
+          "source_id": "47916"
+        },
+        {
+          "source_id": "7a1efbc8-be7c-47d2-8f03-74464f6f60ca",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "59f4acd0-971a-4470-ab8d-17900a4b128a",
+      "name": "Sam Ehlinger",
+      "jersey": "4",
+      "last_name": "Ehlinger",
+      "first_name": "Sam",
+      "abbr_name": "S.Ehlinger",
+      "birth_date": "1998-09-30",
+      "weight": 222.0,
+      "height": 73,
+      "position": "QB",
+      "birth_place": "Austin, TX, USA",
+      "high_school": "Westlake (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197898",
+      "experience": 5,
+      "salary": 1197500,
+      "draft": {
+        "year": 2021,
+        "round": 6,
+        "number": 218,
+        "team": {
+          "id": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9",
+          "name": "Colts",
+          "market": "Indianapolis",
+          "alias": "IND",
+          "sr_id": "sr:competitor:4421"
+        }
+      },
+      "references": [
+        {
+          "source_id": "f7b2ff3f-519a-4845-98e0-e8325446549e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "5c753156-6ba2-4e25-9fbd-492c69e06ff0",
+      "name": "Pat Surtain II",
+      "jersey": "2",
+      "last_name": "Surtain",
+      "first_name": "Pat",
+      "abbr_name": "P.Surtain",
+      "birth_date": "2000-04-14",
+      "weight": 202.0,
+      "height": 74,
+      "position": "CB",
+      "birth_place": "Plantation, FL, USA",
+      "high_school": "American Heritage (FL)",
+      "college": "Alabama",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2197908",
+      "name_suffix": "II",
+      "experience": 5,
+      "salary": 8370000,
+      "draft": {
+        "year": 2021,
+        "round": 1,
+        "number": 9,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "d8e241fb-9ad5-4760-a6ae-c6b0e879b3c1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "60b4ded0-f321-11ed-ab27-e38fa04fd6c0",
+      "name": "Jaleel McLaughlin",
+      "jersey": "38",
+      "last_name": "McLaughlin",
+      "first_name": "Jaleel",
+      "abbr_name": "J.McLaughlin",
+      "birth_date": "2000-09-13",
+      "weight": 187.0,
+      "height": 67,
+      "position": "RB",
+      "birth_place": "Marshville, NC, USA",
+      "high_school": "Forest Hills (NC)",
+      "college": "Youngstown State",
+      "college_conf": "Missouri Valley Football Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:2130248",
+      "experience": 3,
+      "salary": 1035000,
+      "references": [
+        {
+          "source_id": "d6e83b2e-43d3-4ce6-b9c0-54f576be751b",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "62fb07e0-d253-11ec-b16e-cf7159baf83d",
+      "name": "Ja'Quan McMillian",
+      "jersey": "29",
+      "last_name": "McMillian",
+      "first_name": "Ja'Quan",
+      "abbr_name": "J.McMillian",
+      "birth_date": "2000-06-04",
+      "weight": 183.0,
+      "height": 70,
+      "position": "CB",
+      "birth_place": "Winston-Salem, NC, USA",
+      "high_school": "West Forsyth (NC)",
+      "college": "East Carolina",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1707731",
+      "experience": 3,
+      "salary": 1030000,
+      "references": [
+        {
+          "source_id": "7d3ffd20-bfbb-4350-a27f-b167c6547829",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "640f28f2-9365-44f2-bbfb-29730dfe8c90",
+      "name": "Jeremy Crawshaw",
+      "jersey": "16",
+      "last_name": "Crawshaw",
+      "first_name": "Jeremy",
+      "abbr_name": "J.Crawshaw",
+      "birth_date": "2001-05-22",
+      "weight": 205.0,
+      "height": 75,
+      "position": "P",
+      "birth_place": "Penrith,, AUS",
+      "college": "Florida",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2031619",
+      "experience": 0,
+      "salary": 883570,
+      "draft": {
+        "year": 2025,
+        "round": 6,
+        "number": 216,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "b796702a-d547-4aaf-b760-c090fe37b1d1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "74ee9029-96c6-4a9b-bd20-1b2ba18c14b5",
+      "name": "Jonathon Cooper",
+      "jersey": "0",
+      "last_name": "Cooper",
+      "first_name": "Jonathon",
+      "abbr_name": "J.Cooper",
+      "birth_date": "1998-01-08",
+      "weight": 257.0,
+      "height": 76,
+      "position": "OLB",
+      "birth_place": "Gahanna, OH, USA",
+      "high_school": "Lincoln (OH)",
+      "college": "Ohio State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198072",
+      "experience": 5,
+      "salary": 8145000,
+      "draft": {
+        "year": 2021,
+        "round": 7,
+        "number": 239,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "c26cda14-29ca-4a80-8921-022dfc1cc0c1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "75dd276d-df54-4264-893c-aab76f3ae9b2",
+      "name": "Jahdae Barron",
+      "jersey": "23",
+      "last_name": "Barron",
+      "first_name": "Jahdae",
+      "abbr_name": "J.Barron",
+      "birth_date": "2001-12-04",
+      "weight": 200.0,
+      "height": 71,
+      "position": "CB",
+      "birth_place": "Corpus Christi, TX, USA",
+      "high_school": "Connally (TX)",
+      "college": "Texas",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1997739",
+      "experience": 0,
+      "salary": 3286032,
+      "draft": {
+        "year": 2025,
+        "round": 1,
+        "number": 20,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "ffa95afa-e4aa-4406-8a65-df1bf02b5a16",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "765dffd8-8112-4078-86a1-924ccebf1069",
+      "name": "Troy Franklin",
+      "jersey": "11",
+      "last_name": "Franklin",
+      "first_name": "Troy",
+      "abbr_name": "T.Franklin",
+      "birth_date": "2003-02-06",
+      "weight": 180.0,
+      "height": 75,
+      "position": "WR",
+      "birth_place": "East Palo Alto, CA, USA",
+      "high_school": "Menlo-Atherton (CA)",
+      "college": "Oregon",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2154948",
+      "experience": 2,
+      "salary": 1188709,
+      "draft": {
+        "year": 2024,
+        "round": 4,
+        "number": 102,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "d0caa293-e840-49f9-8fc6-3e405104ee73",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "77af642a-82f9-439c-8413-9221df3ccba6",
+      "name": "Eyioma Uwazurike",
+      "jersey": "96",
+      "last_name": "Uwazurike",
+      "first_name": "Eyioma",
+      "abbr_name": "E.Uwazurike",
+      "birth_date": "1998-05-06",
+      "weight": 320.0,
+      "height": 78,
+      "position": "DL",
+      "birth_place": "Detroit, MI, USA",
+      "high_school": "Southfield-Lathrup (MI)",
+      "college": "Iowa State",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1226116",
+      "experience": 3,
+      "salary": 1221467,
+      "draft": {
+        "year": 2022,
+        "round": 4,
+        "number": 116,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "45243cdc-2fd9-40fa-b018-de892f13b2ca",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "784f8433-0379-46bc-b9ed-6c5a1783513d",
+      "name": "Nik Bonitto",
+      "jersey": "15",
+      "last_name": "Bonitto",
+      "first_name": "Nik",
+      "abbr_name": "N.Bonitto",
+      "birth_date": "1999-09-26",
+      "weight": 240.0,
+      "height": 75,
+      "position": "OLB",
+      "birth_place": "Fort Lauderdale, FL, USA",
+      "high_school": "St. Thomas Aquinas (FL)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1423123",
+      "experience": 4,
+      "salary": 5695889,
+      "draft": {
+        "year": 2022,
+        "round": 2,
+        "number": 64,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "7c081872-9fd7-4590-b9ca-cd9c25086b5f",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "7bae5c30-2d76-11ef-965b-a7cea7da527b",
+      "name": "Dondrea Tillman",
+      "jersey": "92",
+      "last_name": "Tillman",
+      "first_name": "Dondrea",
+      "abbr_name": "D.Tillman",
+      "birth_date": "1998-04-30",
+      "weight": 247.0,
+      "height": 76,
+      "position": "OLB",
+      "birth_place": "Sterling, VA, USA",
+      "high_school": "Potomac Falls (VA)",
+      "college": "Indiana (PA)",
+      "college_conf": "Pennsylvania State Athletic Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:2817393",
+      "experience": 2,
+      "salary": 960000
+    },
+    {
+      "id": "7df846c7-fef7-4ad8-83af-f9047d8e57e6",
+      "name": "Alex Forsyth",
+      "jersey": "54",
+      "last_name": "Forsyth",
+      "first_name": "Alex",
+      "abbr_name": "A.Forsyth",
+      "birth_date": "1999-02-13",
+      "weight": 312.0,
+      "height": 76,
+      "position": "C",
+      "birth_place": "West Linn, OR, USA",
+      "high_school": "West Linn (OR)",
+      "college": "Oregon",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1260602",
+      "experience": 3,
+      "salary": 1049444,
+      "draft": {
+        "year": 2023,
+        "round": 7,
+        "number": 257,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "45563b9c-d460-4d39-a5c2-73dca82c570c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "83b719f1-e6ac-4611-8235-c2f6bd198fa3",
+      "name": "Devon Key",
+      "jersey": "26",
+      "last_name": "Key",
+      "first_name": "Devon",
+      "abbr_name": "D.Key",
+      "birth_date": "1997-10-28",
+      "weight": 208.0,
+      "height": 72,
+      "position": "DB",
+      "birth_place": "Lexington, KY, USA",
+      "high_school": "Bryan Station (KY)",
+      "college": "Western Kentucky",
+      "college_conf": "Conference USA",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:1206834",
+      "experience": 2,
+      "salary": 960000,
+      "references": [
+        {
+          "source_id": "1a76d11d-c26d-4a07-9397-76ffae673853",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "8bd08ef6-5d55-4fd0-b7db-1489d88c6ebd",
+      "name": "Quinn Meinerz",
+      "jersey": "77",
+      "last_name": "Meinerz",
+      "first_name": "Quinn",
+      "abbr_name": "Q.Meinerz",
+      "birth_date": "1998-11-15",
+      "weight": 320.0,
+      "height": 75,
+      "position": "OL",
+      "birth_place": "Hartford, WI, USA",
+      "high_school": "Hartford Union (WI)",
+      "college": "Wisconsin-Whitewater",
+      "college_conf": "Wisconsin Intercollegiate Athletic Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198032",
+      "experience": 5,
+      "salary": 5525000,
+      "draft": {
+        "year": 2021,
+        "round": 3,
+        "number": 98,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      }
+    },
+    {
+      "id": "8f79eaa3-df62-4214-a497-1e13970e6b82",
+      "name": "Riley Moss",
+      "jersey": "21",
+      "last_name": "Moss",
+      "first_name": "Riley",
+      "abbr_name": "R.Moss",
+      "birth_date": "2000-03-03",
+      "weight": 193.0,
+      "height": 72,
+      "position": "CB",
+      "birth_place": "Des Moines, IA, USA",
+      "high_school": "Ankeny Centennial (IA)",
+      "college": "Iowa",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1434845",
+      "experience": 3,
+      "salary": 1485678,
+      "draft": {
+        "year": 2023,
+        "round": 3,
+        "number": 83,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "3f7f331e-87f5-4616-9de2-7df3a2a99075",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "954d9ed8-41ed-4222-b0d8-b3cc8d1755a5",
+      "name": "Alex Singleton",
+      "jersey": "49",
+      "last_name": "Singleton",
+      "first_name": "Alex",
+      "abbr_name": "A.Singleton",
+      "preferred_name": "Alex",
+      "birth_date": "1993-12-07",
+      "weight": 240.0,
+      "height": 74,
+      "position": "LB",
+      "birth_place": "Thousand Oaks, CA, USA",
+      "high_school": "Thousand Oaks (CA)",
+      "college": "Montana State",
+      "college_conf": "Big Sky Conference",
+      "rookie_year": 2015,
+      "status": "ACT",
+      "sr_id": "sr:player:836239",
+      "experience": 7,
+      "salary": 6913334,
+      "references": [
+        {
+          "source_id": "00-0031898"
+        },
+        {
+          "source_id": "42929"
+        }
+      ]
+    },
+    {
+      "id": "9d313477-3091-403a-a1d6-1f1e7e5ac4c4",
+      "name": "Que Robinson",
+      "jersey": "51",
+      "last_name": "Robinson",
+      "first_name": "Que",
+      "abbr_name": "Q.Robinson",
+      "birth_date": "2001-05-12",
+      "weight": 243.0,
+      "height": 76,
+      "position": "OLB",
+      "birth_place": "Birmingham, AL, USA",
+      "high_school": "Jackson-Olin (AL)",
+      "college": "Alabama",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2988021",
+      "experience": 0,
+      "salary": 1053564,
+      "draft": {
+        "year": 2025,
+        "round": 4,
+        "number": 134,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "dc3f5281-4922-4e90-9412-870c6ea02d2b",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "9e48c440-f322-11ed-9708-f584d834f6a3",
+      "name": "Alex Palczewski",
+      "jersey": "63",
+      "last_name": "Palczewski",
+      "first_name": "Alex",
+      "abbr_name": "A.Palczewski",
+      "birth_date": "1999-08-03",
+      "weight": 314.0,
+      "height": 78,
+      "position": "T",
+      "birth_place": "Mount Prospect, IL, USA",
+      "high_school": "Prospect (IL)",
+      "college": "Illinois",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1270862",
+      "experience": 3,
+      "salary": 966667,
+      "references": [
+        {
+          "source_id": "d8b5ab14-172c-4c66-9177-5cf96e9490a3",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "a1a2f797-77ac-4f13-8456-50a10a7fd61a",
+      "name": "Talanoa Hufanga",
+      "jersey": "9",
+      "last_name": "Hufanga",
+      "first_name": "Talanoa",
+      "abbr_name": "T.Hufanga",
+      "birth_date": "2000-02-01",
+      "weight": 200.0,
+      "height": 72,
+      "position": "SAF",
+      "birth_place": "Corvallis, OR, USA",
+      "high_school": "Crescent Valley (OR)",
+      "college": "USC",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:1437360",
+      "experience": 5,
+      "salary": 3411764,
+      "draft": {
+        "year": 2021,
+        "round": 5,
+        "number": 180,
+        "team": {
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "sr_id": "sr:competitor:4389"
+        }
+      },
+      "references": [
+        {
+          "source_id": "e551dfb9-ddc0-463e-b410-9aff5c6eb81f",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "ad57b64a-befa-40fd-ae40-9c438ced7ea2",
+      "name": "JL Skinner",
+      "jersey": "34",
+      "last_name": "Skinner",
+      "first_name": "JL",
+      "abbr_name": "J.Skinner",
+      "birth_date": "2001-04-16",
+      "weight": 220.0,
+      "height": 76,
+      "position": "SAF",
+      "birth_place": "San Diego, CA, USA",
+      "high_school": "Point Loma (CA)",
+      "college": "Boise State",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1873288",
+      "experience": 3,
+      "salary": 1079055,
+      "draft": {
+        "year": 2023,
+        "round": 6,
+        "number": 183,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "7dda4890-b0a3-42a5-9a3e-a18c1fb2e158",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "af3e3a30-2f77-11f0-ba1a-55a5c95161f5",
+      "name": "Jordan Turner",
+      "jersey": "55",
+      "last_name": "Turner",
+      "first_name": "Jordan",
+      "abbr_name": "J.Turner",
+      "birth_date": "2001-12-13",
+      "weight": 231.0,
+      "height": 73,
+      "position": "LB",
+      "birth_place": "Farmington Hills, MI, USA",
+      "high_school": "Farmington (MI)",
+      "college": "Michigan State",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:2001685",
+      "experience": 0,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "9d5d91a5-2725-4a0e-b766-6b6c84d3d05d",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "b55ae5ba-593f-4560-9cab-14e10698e01d",
+      "name": "Courtland Sutton",
+      "jersey": "14",
+      "last_name": "Sutton",
+      "first_name": "Courtland",
+      "abbr_name": "C.Sutton",
+      "birth_date": "1995-10-10",
+      "weight": 216.0,
+      "height": 76,
+      "position": "WR",
+      "birth_place": "Brenham, TX, USA",
+      "high_school": "Brenham (TX)",
+      "college": "SMU",
+      "college_conf": "American Athletic Conference",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1185936",
+      "experience": 8,
+      "salary": 13900000,
+      "draft": {
+        "year": 2018,
+        "round": 2,
+        "number": 40,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "46109"
+        },
+        {
+          "source_id": "00-0034348"
+        },
+        {
+          "source_id": "0c16cd28-b7b8-4bda-bd76-32f7c3466e8c",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "b7f930af-ddd2-4a48-9617-96bda81b0334",
+      "name": "Lil'Jordan Humphrey",
+      "jersey": "17",
+      "last_name": "Humphrey",
+      "first_name": "Lil'Jordan",
+      "abbr_name": "L.Humphrey",
+      "birth_date": "1998-04-19",
+      "weight": 225.0,
+      "height": 76,
+      "position": "WR",
+      "birth_place": "Southlake, TX, USA",
+      "high_school": "Southlake Carroll (TX)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1228392",
+      "experience": 6,
+      "salary": 0,
+      "references": [
+        {
+          "source_id": "48541"
+        },
+        {
+          "source_id": "00-0035406"
+        },
+        {
+          "source_id": "e7f9fee1-2321-4737-ad58-5d4d893076ea",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "bb01a04e-0d54-4fc6-98c8-2b8614d07afe",
+      "name": "Malcolm Roach",
+      "jersey": "97",
+      "last_name": "Roach",
+      "first_name": "Malcolm",
+      "abbr_name": "M.Roach",
+      "birth_date": "1998-06-09",
+      "weight": 290.0,
+      "height": 75,
+      "position": "DT",
+      "birth_place": "Baton Rouge, LA, USA",
+      "high_school": "Madison Prep (LA)",
+      "college": "Texas",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:1223036",
+      "experience": 6,
+      "salary": 4250000,
+      "references": [
+        {
+          "source_id": "52665"
+        },
+        {
+          "source_id": "00-0035763"
+        },
+        {
+          "source_id": "c9fab2c6-f349-4c9a-9a34-186724df0d68",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "bcd0ae60-f31c-11ed-819c-fd03d0cc2698",
+      "name": "Nate Adkins",
+      "jersey": "45",
+      "last_name": "Adkins",
+      "first_name": "Nate",
+      "abbr_name": "N.Adkins",
+      "birth_date": "1999-07-09",
+      "weight": 252.0,
+      "height": 75,
+      "position": "TE",
+      "birth_place": "Knoxville, TN, USA",
+      "high_school": "Bearden (TN)",
+      "college": "South Carolina",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1570602",
+      "experience": 3,
+      "salary": 1033334,
+      "references": [
+        {
+          "source_id": "12e937a8-c62b-4552-bfaf-66eb73150ee1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "bf53f47f-0ee5-4391-9087-bfcae6014bde",
+      "name": "Jordan Jackson",
+      "jersey": "94",
+      "last_name": "Jackson",
+      "first_name": "Jordan",
+      "abbr_name": "J.Jackson",
+      "birth_date": "1998-01-30",
+      "weight": 294.0,
+      "height": 76,
+      "position": "DL",
+      "birth_place": "Jacksonville, FL, USA",
+      "high_school": "Bolles (FL)",
+      "college": "Air Force",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1274742",
+      "experience": 2,
+      "salary": 960000,
+      "draft": {
+        "year": 2022,
+        "round": 6,
+        "number": 194,
+        "team": {
+          "id": "0d855753-ea21-4953-89f9-0e20aff9eb73",
+          "name": "Saints",
+          "market": "New Orleans",
+          "alias": "NO",
+          "sr_id": "sr:competitor:4425"
+        }
+      },
+      "references": [
+        {
+          "source_id": "13c73631-8820-4a7b-a208-1e79764f85b2",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c2b21a35-81fc-465f-9476-6e5cda608288",
+      "name": "Mike McGlinchey",
+      "jersey": "69",
+      "last_name": "McGlinchey",
+      "first_name": "Mike",
+      "abbr_name": "M.McGlinchey",
+      "birth_date": "1995-01-12",
+      "weight": 315.0,
+      "height": 80,
+      "position": "T",
+      "birth_place": "Philadelphia, PA, USA",
+      "high_school": "William Penn Charter (PA)",
+      "college": "Notre Dame",
+      "college_conf": "Independent",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1190508",
+      "experience": 8,
+      "salary": 23775000,
+      "draft": {
+        "year": 2018,
+        "round": 1,
+        "number": 9,
+        "team": {
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "sr_id": "sr:competitor:4389"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0034847"
+        },
+        {
+          "source_id": "46078"
+        },
+        {
+          "source_id": "bb29afa6-2aff-49ad-90ca-10fe51173a46",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c33c2e37-fc99-4ab3-b609-d588c9141e9a",
+      "name": "Jonah Elliss",
+      "jersey": "52",
+      "last_name": "Elliss",
+      "first_name": "Jonah",
+      "abbr_name": "J.Elliss",
+      "birth_date": "2003-04-03",
+      "weight": 246.0,
+      "height": 74,
+      "position": "OLB",
+      "birth_place": "Moscow, ID, USA",
+      "high_school": "Moscow Senior (ID)",
+      "college": "Utah",
+      "college_conf": "Pacific Twelve Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2156104",
+      "experience": 2,
+      "salary": 1334253,
+      "draft": {
+        "year": 2024,
+        "round": 3,
+        "number": 76,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "33577d00-4eea-47a4-90b3-645016eaefab",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "c4cf84d0-6022-4ac1-a9ba-85587921c53f",
+      "name": "Wil Lutz",
+      "jersey": "3",
+      "last_name": "Lutz",
+      "first_name": "Wil",
+      "abbr_name": "W.Lutz",
+      "birth_date": "1994-07-07",
+      "weight": 184.0,
+      "height": 71,
+      "position": "K",
+      "birth_place": "Newnan, GA, USA",
+      "high_school": "Northgate (GA)",
+      "college": "Georgia State",
+      "college_conf": "Sun Belt Conference",
+      "rookie_year": 2016,
+      "status": "ACT",
+      "sr_id": "sr:player:990735",
+      "experience": 10,
+      "salary": 5540000,
+      "references": [
+        {
+          "source_id": "43689"
+        },
+        {
+          "source_id": "00-0032569"
+        }
+      ]
+    },
+    {
+      "id": "ce3022d0-2312-11f0-bb1a-c5184cf675c9",
+      "name": "Karene Reid",
+      "jersey": "47",
+      "last_name": "Reid",
+      "first_name": "Karene",
+      "abbr_name": "K.Reid",
+      "birth_date": "2000-02-19",
+      "weight": 226.0,
+      "height": 72,
+      "position": "LB",
+      "birth_place": "American Fork, UT, USA",
+      "high_school": "Timpview (UT)",
+      "college": "Utah",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1478044",
+      "experience": 0,
+      "salary": 845000,
+      "references": [
+        {
+          "source_id": "85689075-f48e-4113-93fb-c5976455e5c6",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "cfcac921-0ac6-457c-9f37-82324327f3e3",
+      "name": "Ben Powers",
+      "jersey": "74",
+      "last_name": "Powers",
+      "first_name": "Ben",
+      "abbr_name": "B.Powers",
+      "birth_date": "1996-10-29",
+      "weight": 310.0,
+      "height": 76,
+      "position": "G",
+      "birth_place": "Wichita, KS, USA",
+      "high_school": "Kapaun Mt. Carmel Catholic (OK)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1219214",
+      "experience": 7,
+      "salary": 17425000,
+      "draft": {
+        "year": 2019,
+        "round": 4,
+        "number": 123,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47906"
+        },
+        {
+          "source_id": "00-0034978"
+        },
+        {
+          "source_id": "474d6070-3143-48a7-89a7-7682c0050943",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "d2e2b313-6769-48c6-a217-d167f04068df",
+      "name": "D.J. Jones",
+      "jersey": "93",
+      "last_name": "Jones",
+      "first_name": "D.J.",
+      "abbr_name": "D.Jones",
+      "birth_date": "1995-01-19",
+      "weight": 305.0,
+      "height": 72,
+      "position": "DT",
+      "birth_place": "Greenville, SC, USA",
+      "high_school": "Wren (SC)",
+      "college": "Ole Miss",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1130003",
+      "experience": 9,
+      "salary": 6600000,
+      "draft": {
+        "year": 2017,
+        "round": 6,
+        "number": 198,
+        "team": {
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "sr_id": "sr:competitor:4389"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0033297"
+        },
+        {
+          "source_id": "45011"
+        },
+        {
+          "source_id": "3e396b9f-848e-4b08-a8b3-b3295a1745b1",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "dcb90680-0731-11ef-9d4c-f327158ee94e",
+      "name": "Frank Crum",
+      "jersey": "73",
+      "last_name": "Crum",
+      "first_name": "Frank",
+      "abbr_name": "F.Crum",
+      "birth_date": "2000-05-14",
+      "weight": 315.0,
+      "height": 79,
+      "position": "OT",
+      "birth_place": "Laramie, WY, USA",
+      "high_school": "Laramie (WY)",
+      "college": "Wyoming",
+      "college_conf": "Mountain West Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:1474144",
+      "experience": 2,
+      "salary": 968333,
+      "references": [
+        {
+          "source_id": "844ff02e-bae9-4d4d-b8b5-35c8cad4af08",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "ddcbf3f0-ec3b-11ed-aeaf-cb0dc6206dc5",
+      "name": "Reese Taylor",
+      "jersey": "35",
+      "last_name": "Taylor",
+      "first_name": "Reese",
+      "abbr_name": "R.Taylor",
+      "birth_date": "1999-08-27",
+      "weight": 188.0,
+      "height": 69,
+      "position": "CB",
+      "birth_place": "Indianapolis, IN, USA",
+      "high_school": "Ben Davis (IN)",
+      "college": "Purdue",
+      "college_conf": "Big Ten Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1434893",
+      "experience": 1,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "75d8bd1b-bad3-4e69-9be9-33c28d663a65",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e08d71dd-58d9-4295-bcf8-9a6faf59c333",
+      "name": "John Franklin-Myers",
+      "jersey": "98",
+      "last_name": "Franklin-Myers",
+      "first_name": "John",
+      "abbr_name": "J.Franklin-Myers",
+      "birth_date": "1996-09-26",
+      "weight": 288.0,
+      "height": 76,
+      "position": "DL",
+      "birth_place": "Los Angeles, CA, USA",
+      "high_school": "Greenville (TX)",
+      "college": "Stephen F. Austin",
+      "college_conf": "Southland Conference",
+      "rookie_year": 2018,
+      "status": "ACT",
+      "sr_id": "sr:player:1474702",
+      "experience": 8,
+      "salary": 10000000,
+      "draft": {
+        "year": 2018,
+        "round": 4,
+        "number": 135,
+        "team": {
+          "id": "2eff2a03-54d4-46ba-890e-2bc3925548f3",
+          "name": "Rams",
+          "market": "Los Angeles",
+          "alias": "LA",
+          "sr_id": "sr:competitor:4387"
+        }
+      },
+      "references": [
+        {
+          "source_id": "46204"
+        },
+        {
+          "source_id": "00-0034805"
+        },
+        {
+          "source_id": "d97365bd-fccc-4810-b2b4-2e1a20636119",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e21365af-8d66-416e-b0a5-8816d18fcfd9",
+      "name": "Evan Engram",
+      "jersey": "1",
+      "last_name": "Engram",
+      "first_name": "Evan",
+      "abbr_name": "E.Engram",
+      "birth_date": "1994-09-02",
+      "weight": 240.0,
+      "height": 75,
+      "position": "TE",
+      "birth_place": "Powder Springs, GA, USA",
+      "high_school": "Hillgrove (GA)",
+      "college": "Ole Miss",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2017,
+      "status": "ACT",
+      "sr_id": "sr:player:1129555",
+      "experience": 9,
+      "salary": 5956666,
+      "draft": {
+        "year": 2017,
+        "round": 1,
+        "number": 23,
+        "team": {
+          "id": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d",
+          "name": "Giants",
+          "market": "New York",
+          "alias": "NYG",
+          "sr_id": "sr:competitor:4426"
+        }
+      },
+      "references": [
+        {
+          "source_id": "44835"
+        },
+        {
+          "source_id": "00-0033881"
+        },
+        {
+          "source_id": "552ada18-7858-4c21-b3ac-3cb361ff56e2",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e5870f5e-f9b2-48a3-97ec-8d12fbc91f3f",
+      "name": "Adam Prentice",
+      "jersey": "46",
+      "last_name": "Prentice",
+      "first_name": "Adam",
+      "abbr_name": "A.Prentice",
+      "birth_date": "1997-01-16",
+      "weight": 245.0,
+      "height": 72,
+      "position": "FB",
+      "birth_place": "Fresno, CA, USA",
+      "high_school": "Clovis (CA)",
+      "college": "South Carolina",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2021,
+      "status": "ACT",
+      "sr_id": "sr:player:2198012",
+      "experience": 5,
+      "salary": 840000,
+      "references": [
+        {
+          "source_id": "d2bd0135-91f6-4dd7-964b-3e7219222d31",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e62678b9-9816-420f-bf86-398e7fea7063",
+      "name": "Tyler Badie",
+      "jersey": "28",
+      "last_name": "Badie",
+      "first_name": "Tyler",
+      "abbr_name": "T.Badie",
+      "birth_date": "2000-02-07",
+      "weight": 197.0,
+      "height": 68,
+      "position": "RB",
+      "birth_place": "New Orleans, LA, USA",
+      "high_school": "Briarcrest Christian School (TN)",
+      "college": "Missouri",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2022,
+      "status": "ACT",
+      "sr_id": "sr:player:1415885",
+      "experience": 2,
+      "salary": 960000,
+      "draft": {
+        "year": 2022,
+        "round": 6,
+        "number": 196,
+        "team": {
+          "id": "ebd87119-b331-4469-9ea6-d51fe3ce2f1c",
+          "name": "Ravens",
+          "market": "Baltimore",
+          "alias": "BAL",
+          "sr_id": "sr:competitor:4413"
+        }
+      },
+      "references": [
+        {
+          "source_id": "5123a5f5-03c0-4fda-b9b9-72c7278e6222",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "e6eb9d50-9231-44ff-89eb-7f7b996e042f",
+      "name": "Dre Greenlaw",
+      "jersey": "57",
+      "last_name": "Greenlaw",
+      "first_name": "Dre",
+      "abbr_name": "D.Greenlaw",
+      "birth_date": "1997-05-25",
+      "weight": 230.0,
+      "height": 72,
+      "position": "LB",
+      "birth_place": "Fayetteville, AR, USA",
+      "high_school": "Fayetteville (AR)",
+      "college": "Arkansas",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1833944",
+      "experience": 7,
+      "salary": 5816666,
+      "draft": {
+        "year": 2019,
+        "round": 5,
+        "number": 148,
+        "team": {
+          "id": "f0e724b0-4cbf-495a-be47-013907608da9",
+          "name": "49ers",
+          "market": "San Francisco",
+          "alias": "SF",
+          "sr_id": "sr:competitor:4389"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47931"
+        },
+        {
+          "source_id": "00-0034982"
+        },
+        {
+          "source_id": "39e8190a-a7b9-42ad-b5c3-442a5fd1c66f",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f66366c2-7849-4c96-86d3-19882a7a27b7",
+      "name": "Kris Abrams-Draine",
+      "jersey": "31",
+      "last_name": "Abrams-Draine",
+      "first_name": "Kris",
+      "abbr_name": "K.Abrams-Draine",
+      "birth_date": "2001-10-04",
+      "weight": 178.0,
+      "height": 71,
+      "position": "CB",
+      "birth_place": "Mobile, AL, USA",
+      "high_school": "Spanish Fort (AL)",
+      "college": "Missouri",
+      "college_conf": "Southeastern Conference",
+      "rookie_year": 2024,
+      "status": "ACT",
+      "sr_id": "sr:player:2069677",
+      "experience": 2,
+      "salary": 1047068,
+      "draft": {
+        "year": 2024,
+        "round": 5,
+        "number": 145,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00d8b5f2-1f8f-49f1-abb4-60a97560ed49",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f68685e7-9904-47bc-b39a-e1c813435385",
+      "name": "Zach Allen",
+      "jersey": "99",
+      "last_name": "Allen",
+      "first_name": "Zach",
+      "abbr_name": "Z.Allen",
+      "birth_date": "1997-08-20",
+      "weight": 285.0,
+      "height": 77,
+      "position": "DL",
+      "birth_place": "New Canaan, CT, USA",
+      "high_school": "New Canaan (CT)",
+      "college": "Boston College",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2019,
+      "status": "ACT",
+      "sr_id": "sr:player:1224714",
+      "experience": 7,
+      "salary": 14345000,
+      "draft": {
+        "year": 2019,
+        "round": 3,
+        "number": 65,
+        "team": {
+          "id": "de760528-1dc0-416a-a978-b510d20692ff",
+          "name": "Cardinals",
+          "market": "Arizona",
+          "alias": "ARI",
+          "sr_id": "sr:competitor:4412"
+        }
+      },
+      "references": [
+        {
+          "source_id": "47848"
+        },
+        {
+          "source_id": "00-0035248"
+        },
+        {
+          "source_id": "66337b1d-7f59-4547-9fdc-33aff100df33",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "f8f0760e-8f04-45bf-9371-fa33c945bc1c",
+      "name": "Justin Strnad",
+      "jersey": "40",
+      "last_name": "Strnad",
+      "first_name": "Justin",
+      "abbr_name": "J.Strnad",
+      "birth_date": "1996-08-21",
+      "weight": 235.0,
+      "height": 75,
+      "position": "LB",
+      "birth_place": "Palm Harbor, FL, USA",
+      "high_school": "East Lake (FL)",
+      "college": "Wake Forest",
+      "college_conf": "Atlantic Coast Conference",
+      "rookie_year": 2020,
+      "status": "ACT",
+      "sr_id": "sr:player:2040535",
+      "experience": 6,
+      "salary": 1337500,
+      "draft": {
+        "year": 2020,
+        "round": 5,
+        "number": 178,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "00-0036428"
+        },
+        {
+          "source_id": "52586"
+        },
+        {
+          "source_id": "8bdbcfc0-9e7b-4a62-a81b-0c13e414522f",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "fc6dbb83-b2b1-4962-b793-e79b2378b525",
+      "name": "RJ Harvey",
+      "jersey": "12",
+      "last_name": "Harvey",
+      "first_name": "RJ",
+      "abbr_name": "R.Harvey",
+      "birth_date": "2001-02-04",
+      "weight": 205.0,
+      "height": 68,
+      "position": "RB",
+      "birth_place": "Orlando, FL, USA",
+      "high_school": "Edgewater (FL)",
+      "college": "UCF",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2025,
+      "status": "ACT",
+      "sr_id": "sr:player:1692343",
+      "experience": 0,
+      "salary": 1338123,
+      "draft": {
+        "year": 2025,
+        "round": 2,
+        "number": 60,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "94c3c50f-def5-4f33-9fca-807558d19c6e",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    },
+    {
+      "id": "fcd780e6-6d43-4c2e-b740-59ae09911345",
+      "name": "Marvin Mims Jr.",
+      "jersey": "19",
+      "last_name": "Mims",
+      "first_name": "Marvin",
+      "abbr_name": "M.Mims",
+      "birth_date": "2002-03-19",
+      "weight": 182.0,
+      "height": 71,
+      "position": "WR",
+      "birth_place": "Frisco, TX, USA",
+      "high_school": "Lone Star (TX)",
+      "college": "Oklahoma",
+      "college_conf": "Big Twelve Conference",
+      "rookie_year": 2023,
+      "status": "ACT",
+      "sr_id": "sr:player:1997901",
+      "name_suffix": "Jr.",
+      "experience": 3,
+      "salary": 1655082,
+      "draft": {
+        "year": 2023,
+        "round": 2,
+        "number": 63,
+        "team": {
+          "id": "ce92bd47-93d5-4fe9-ada4-0fc681e6caa0",
+          "name": "Broncos",
+          "market": "Denver",
+          "alias": "DEN",
+          "sr_id": "sr:competitor:4418"
+        }
+      },
+      "references": [
+        {
+          "source_id": "a05cb7fe-6cab-442f-9802-f80e296d70d7",
+          "scope": "NCAAFB",
+          "id_type": "league_profile"
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2026-01-19 15:28:51 +0000 ended @ 2026-01-19 15:28:51 +0000"
+}
